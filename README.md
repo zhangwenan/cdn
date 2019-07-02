@@ -42,7 +42,7 @@ touch 1.12.0/.gitkeep
 ```bash
 $ npm i
 $ npm run dev
-$ open http://localhost:7001/
+$ open http://localhost:7001/cdn/
 ```
 
 ### 部署
@@ -50,6 +50,11 @@ $ open http://localhost:7001/
 ```bash
 $ npm start
 $ npm stop
+```
+
+#### 使用Docker部署
+```
+npm run docker-start
 ```
 
 ### npm scripts
