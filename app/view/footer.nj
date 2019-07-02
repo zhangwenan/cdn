@@ -1,0 +1,84 @@
+<footer id=footer class="footer hidden-print">
+    <div class=container>
+      <div class=row>
+        <div class="footer-about col-md-5 col-sm-12" id=about>
+          <h4>关于 {{ app_config.siteInfo.site_name }}</h4>
+          <p>{{ app_config.siteInfo.site_desc }}本站源代码
+            <a href=https://git.dawanju.net/mhc-fe/infrastructure/cdn target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-bootcss.com'])">MHC CDN</a>。
+            开源项目主要同步于
+            <a href=https://github.com/cdnjs/cdnjs target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-github.com'])">cdnjs</a> 仓库。</p>
+          <p>本项目主要针对卖好车内部项目，减少相同资源的重复打包，减少CDN资源不必要的浪费。</p>
+          <p>反馈或建议请发送邮件至：wenan@maihaoche.com</p>
+        </div>
+        <div class="footer-links col-md-3 col-sm-12">
+          <h4>友情链接</h4>
+          <ul class="list-unstyled list-inline">
+            <li>
+              <a href=https://b.maihaoche.com/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-bootcss.com'])">卖好车</a>
+            </li>
+            <li>
+              <a href=https://blog.maihaoche.com/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-bootcss.com'])">卖好车技术博客</a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer-techs col-md-2 col-sm-12">
+          <h4>我们用到的技术</h4>
+          <ul class="list-unstyled list-inline">
+            <li>
+              <a href=http://www.bootcss.com/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-bootcss.com'])">Bootstrap</a>
+            </li>
+            <li>
+              <a href=http://www.ghostchina.com/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-ghostchina.com'])">Ghost</a>
+            </li>
+            <li>
+              <a href=https://www.jquery123.com/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-jquery123.com'])">jQuery</a>
+            </li>
+            <li>
+              <a href=https://babel.bootcss.com/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-babeljs.cn'])">Babeljs</a>
+            </li>
+            <li>
+              <a href=http://lodashjs.com/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-lodashjs.com'])">Lodash</a>
+            </li>
+            <li>
+              <a href=https://www.nodeapp.cn/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-nodeapp.cn'])">Node.js</a>
+            </li>
+            <li>
+              <a href=http://www.gruntjs.net/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-gruntjs.net'])">Grunt</a>
+            </li>
+            <li>
+              <a href=https://www.gulpjs.com.cn/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-gulpjs.com.cn'])">Gulp</a>
+            </li>
+            <li>
+              <a href=https://www.npmjs.com.cn/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-npmjs.com.cn'])">NPM</a>
+            </li>
+            <li>
+              <a href=https://www.webpackjs.com/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-webpackjs-com'])">webpack</a>
+            </li>
+            <li>
+              <a href=http://www.rollupjs.com/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-rollupjs-com'])">Rollup</a>
+            </li>
+            <li>
+              <a href=https://www.parceljs.cn/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-parceljs-cn'])">Parcel</a>
+            </li>
+            <li>
+              <a href=https://www.postcss.com.cn/ target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-postcss-com-cn'])">PostCSS</a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer-sponsors col-md-2 col-sm-12">
+          <h4>CDN 赞助商</h4>
+          <p>
+            {# <a href=http://www.maoyun.tv/ style="border-bottom: none;" target=_blank onclick="_hmt.push(['_trackEvent', 'footer', 'click', 'footer-maoyun'])">
+              <img src=/assets/img/maoyun.svg?1543889315614 alt=猫云>
+            </a> #}
+            寻找中...
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class=copy-right>
+      <span>&copy; 2014-2018</span>
+      <a href="javascript:void(0)" target=_blank>卖好车前端团队</a>
+      <span></span>
+    </div>
+  </footer>

@@ -1,0 +1,51 @@
+{
+  "name": "cdn",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "egg": "^2.2.1",
+    "egg-scripts": "^2.5.0",
+    "egg-view-nunjucks": "^2.2.0"
+  },
+  "devDependencies": {
+    "autod": "^3.0.1",
+    "autod-egg": "^1.0.0",
+    "axios": "^0.18.0",
+    "config": "^3.0.0",
+    "egg-bin": "^4.3.5",
+    "egg-ci": "^1.8.0",
+    "egg-mock": "^3.14.0",
+    "eslint": "^4.11.0",
+    "eslint-config-egg": "^6.0.0",
+    "prettier": "^1.15.3",
+    "webstorm-disable-index": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "scripts": {
+    "sync": "NODE_ENV=qiniu node syncAssets.js",
+    "qiniu": "./qshell-v2.3.4/qshell_darwin_x64 batchfetch maihaoche -i ./data/links.txt --success-list ./data/fetch_success.txt --failure-list ./data/fetch_failure.txt",
+    "start": "egg-scripts start --daemon --title=egg-server-cdn",
+    "docker-start": "egg-scripts start --title=egg-server-cdn",
+    "stop": "egg-scripts stop --title=egg-server-cdn",
+    "dev": "egg-bin dev",
+    "debug": "egg-bin debug",
+    "test": "npm run lint -- --fix && npm run test-local",
+    "test-local": "egg-bin test",
+    "cov": "egg-bin cov",
+    "lint": "eslint .",
+    "ci": "npm run lint && npm run cov",
+    "autod": "autod"
+  },
+  "ci": {
+    "version": "8"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "MIT"
+}

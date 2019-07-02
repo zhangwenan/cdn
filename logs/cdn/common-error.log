@@ -1,0 +1,15 @@
+2018-12-14 01:18:40,322 ERROR 17734 [-/::1/-/16ms GET /] nodejs.ReferenceError: total is not defined
+    at HomeController.index (/Users/wenlie/workspace/cdn/app/controller/home.js:33:7)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 17734
+hostname: wenanMac
+

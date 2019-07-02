@@ -1,0 +1,10 @@
+2018-12-14 09:22:49,335 INFO 20684 [Timer] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-12-15 00:00:00.000
+2018-12-14 09:22:49,336 INFO 20684 [Timer] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-12-15 00:00:01.000
+2018-12-14 09:40:18,532 INFO 31101 [Timer] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-12-15 00:00:00.000
+2018-12-14 09:40:18,533 INFO 31101 [Timer] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-12-15 00:00:01.000
+2018-12-14 11:18:10,656 INFO 86822 [Timer] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-12-15 00:00:00.000
+2018-12-14 11:18:10,657 INFO 86822 [Timer] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-12-15 00:00:01.000
+2019-07-02 10:35:54,147 INFO 80556 [Timer] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js next time will execute at 2019-07-03 00:00:00.000
+2019-07-02 10:35:54,147 INFO 80556 [Timer] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2019-07-03 00:00:01.000
+2019-07-02 10:36:44,859 INFO 81239 [Timer] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js next time will execute at 2019-07-03 00:00:00.000
+2019-07-02 10:36:44,860 INFO 81239 [Timer] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2019-07-03 00:00:01.000

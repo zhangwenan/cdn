@@ -1,0 +1,25 @@
+[
+  ["jquery", "JavaScript library for DOM operations", 50048],
+  [
+    "lodash.js",
+    "A utility library delivering consistency, customization, performance, & extras.",
+    34918
+  ],
+  ["moment.js", "Parse, validate, manipulate, and display dates", 38766],
+  [
+    "react",
+    "React is a JavaScript library for building user interfaces.",
+    112304
+  ],
+  [
+    "twitter-bootstrap",
+    "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+    127718
+  ],
+  [
+    "vue",
+    "Simple, Fast & Composable MVVM for building interactive interfaces",
+    115357
+  ],
+  ["element-ui", "A Component Library for Vue.js.", null]
+]

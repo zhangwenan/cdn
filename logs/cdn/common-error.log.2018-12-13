@@ -1,0 +1,135 @@
+2018-12-13 10:07:45,086 ERROR 63122 [-/::1/-/15ms GET /] nodejs.ReferenceError: ctx is not defined
+    at HomeController.index (/Users/wenlie/workspace/cdn/app/controller/home.js:8:5)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 63122
+hostname: wenanMac-2.local
+
+2018-12-13 10:07:59,401 ERROR 63162 [-/::1/-/22ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wenlie/workspace/cdn/app/view/home.nj
+    at ContextView.[contextView#render] (/Users/wenlie/workspace/cdn/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 63162
+hostname: wenanMac-2.local
+
+2018-12-13 17:54:10,900 ERROR 60269 [-/::1/-/6ms GET /bbb/] nodejs.ReferenceError: ctx is not defined
+    at PkgController.info (/Users/wenlie/workspace/cdn/app/controller/package.js:8:12)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 60269
+hostname: wenanMac-2.local
+
+2018-12-13 17:54:12,425 ERROR 60269 [-/::1/-/1ms GET /bbb/] nodejs.ReferenceError: ctx is not defined
+    at PkgController.info (/Users/wenlie/workspace/cdn/app/controller/package.js:8:12)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 60269
+hostname: wenanMac-2.local
+
+2018-12-13 17:54:13,524 ERROR 60269 [-/::1/-/0ms GET /bbb/] nodejs.ReferenceError: ctx is not defined
+    at PkgController.info (/Users/wenlie/workspace/cdn/app/controller/package.js:8:12)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 60269
+hostname: wenanMac-2.local
+
+2018-12-13 18:01:05,430 ERROR 62779 [-/::1/-/14ms GET /jquery/] nodejs.ReferenceError: pkg is not defined
+    at PkgController.info (/Users/wenlie/workspace/cdn/app/controller/package.js:10:25)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 62779
+hostname: wenanMac-2.local
+
+2018-12-13 18:01:10,970 ERROR 62779 [-/::1/-/1ms GET /jquery/] nodejs.ReferenceError: pkg is not defined
+    at PkgController.info (/Users/wenlie/workspace/cdn/app/controller/package.js:10:25)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 62779
+hostname: wenanMac-2.local
+
+2018-12-13 18:01:24,454 ERROR 62779 [-/::1/-/7ms GET /jquery/] nodejs.ReferenceError: pkg is not defined
+    at PkgController.info (/Users/wenlie/workspace/cdn/app/controller/package.js:10:25)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at Object.classControllerMiddleware (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/index.js:46:21)
+    at wrappedController (/Users/wenlie/workspace/cdn/node_modules/_egg-core@4.12.0@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/wenlie/workspace/cdn/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 62779
+hostname: wenanMac-2.local
+
+2018-12-13 21:57:21,796 ERROR 1912 nodejs.ClusterClientNoResponseError: client no response in 2751614ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wenlie/workspace/cdn/node_modules/_cluster-client@2.1.2@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 1912
+hostname: wenanMac-2.local
+
+2018-12-14 00:21:04,591 ERROR 1912 nodejs.ClusterClientNoResponseError: client no response in 345374ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wenlie/workspace/cdn/node_modules/_cluster-client@2.1.2@cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: "ClusterClientNoResponseError"
+pid: 1912
+hostname: wenanMac-2.local
+

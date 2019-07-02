@@ -1,0 +1,1179 @@
+2018-12-13 10:06:29,854 INFO 62724 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:06:29,900 INFO 62724 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:06:29,900 INFO 62724 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:06:29,901 INFO 62724 [egg-multipart] stream mode enable
+2018-12-13 10:06:29,978 INFO 62724 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:06:29,982 INFO 62724 [egg-security] use csrf middleware
+2018-12-13 10:06:29,985 INFO 62724 [egg-security] use methodnoallow middleware
+2018-12-13 10:06:29,986 INFO 62724 [egg-security] use noopen middleware
+2018-12-13 10:06:29,987 INFO 62724 [egg-security] use nosniff middleware
+2018-12-13 10:06:29,989 INFO 62724 [egg-security] use xssProtection middleware
+2018-12-13 10:06:29,990 INFO 62724 [egg-security] use xframe middleware
+2018-12-13 10:06:29,991 INFO 62724 [egg-security] use dta middleware
+2018-12-13 10:06:29,991 INFO 62724 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:06:30,003 INFO 62724 [egg:core] dump config after load, 7ms
+2018-12-13 10:06:30,027 INFO 62724 [egg-watcher:application] watcher start success
+2018-12-13 10:06:30,045 INFO 62724 [egg:core] dump config after ready, 6ms
+2018-12-13 10:07:34,792 INFO 63122 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:07:34,846 INFO 63122 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:07:34,846 INFO 63122 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:07:34,846 INFO 63122 [egg-multipart] stream mode enable
+2018-12-13 10:07:34,929 INFO 63122 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:07:34,934 INFO 63122 [egg-security] use csrf middleware
+2018-12-13 10:07:34,935 INFO 63122 [egg-security] use methodnoallow middleware
+2018-12-13 10:07:34,936 INFO 63122 [egg-security] use noopen middleware
+2018-12-13 10:07:34,938 INFO 63122 [egg-security] use nosniff middleware
+2018-12-13 10:07:34,939 INFO 63122 [egg-security] use xssProtection middleware
+2018-12-13 10:07:34,940 INFO 63122 [egg-security] use xframe middleware
+2018-12-13 10:07:34,940 INFO 63122 [egg-security] use dta middleware
+2018-12-13 10:07:34,940 INFO 63122 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:07:34,952 INFO 63122 [egg:core] dump config after load, 5ms
+2018-12-13 10:07:34,978 INFO 63122 [egg-watcher:application] watcher start success
+2018-12-13 10:07:34,988 INFO 63122 [egg:core] dump config after ready, 7ms
+2018-12-13 10:07:56,143 INFO 63162 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:07:56,182 INFO 63162 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:07:56,182 INFO 63162 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:07:56,183 INFO 63162 [egg-multipart] stream mode enable
+2018-12-13 10:07:56,264 INFO 63162 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:07:56,267 INFO 63162 [egg-security] use csrf middleware
+2018-12-13 10:07:56,269 INFO 63162 [egg-security] use methodnoallow middleware
+2018-12-13 10:07:56,270 INFO 63162 [egg-security] use noopen middleware
+2018-12-13 10:07:56,271 INFO 63162 [egg-security] use nosniff middleware
+2018-12-13 10:07:56,272 INFO 63162 [egg-security] use xssProtection middleware
+2018-12-13 10:07:56,273 INFO 63162 [egg-security] use xframe middleware
+2018-12-13 10:07:56,274 INFO 63162 [egg-security] use dta middleware
+2018-12-13 10:07:56,274 INFO 63162 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:07:56,287 INFO 63162 [egg:core] dump config after load, 8ms
+2018-12-13 10:07:56,305 INFO 63162 [egg-watcher:application] watcher start success
+2018-12-13 10:07:56,311 INFO 63162 [egg:core] dump config after ready, 4ms
+2018-12-13 10:09:46,241 INFO 63928 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:09:46,282 INFO 63928 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:09:46,282 INFO 63928 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:09:46,284 INFO 63928 [egg-multipart] stream mode enable
+2018-12-13 10:09:46,363 INFO 63928 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:09:46,365 INFO 63928 [egg-security] use csrf middleware
+2018-12-13 10:09:46,366 INFO 63928 [egg-security] use methodnoallow middleware
+2018-12-13 10:09:46,367 INFO 63928 [egg-security] use noopen middleware
+2018-12-13 10:09:46,368 INFO 63928 [egg-security] use nosniff middleware
+2018-12-13 10:09:46,369 INFO 63928 [egg-security] use xssProtection middleware
+2018-12-13 10:09:46,369 INFO 63928 [egg-security] use xframe middleware
+2018-12-13 10:09:46,370 INFO 63928 [egg-security] use dta middleware
+2018-12-13 10:09:46,370 INFO 63928 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:09:46,384 INFO 63928 [egg:core] dump config after load, 9ms
+2018-12-13 10:09:46,402 INFO 63928 [egg-watcher:application] watcher start success
+2018-12-13 10:09:46,421 INFO 63928 [egg:core] dump config after ready, 14ms
+2018-12-13 10:10:13,927 INFO 64299 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:10:14,018 INFO 64299 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:10:14,018 INFO 64299 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:10:14,019 INFO 64299 [egg-multipart] stream mode enable
+2018-12-13 10:10:14,085 INFO 64299 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:10:14,089 INFO 64299 [egg-security] use csrf middleware
+2018-12-13 10:10:14,093 INFO 64299 [egg-security] use methodnoallow middleware
+2018-12-13 10:10:14,094 INFO 64299 [egg-security] use noopen middleware
+2018-12-13 10:10:14,094 INFO 64299 [egg-security] use nosniff middleware
+2018-12-13 10:10:14,095 INFO 64299 [egg-security] use xssProtection middleware
+2018-12-13 10:10:14,096 INFO 64299 [egg-security] use xframe middleware
+2018-12-13 10:10:14,096 INFO 64299 [egg-security] use dta middleware
+2018-12-13 10:10:14,096 INFO 64299 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:10:14,106 INFO 64299 [egg:core] dump config after load, 6ms
+2018-12-13 10:10:14,127 INFO 64299 [egg-watcher:application] watcher start success
+2018-12-13 10:10:14,138 INFO 64299 [egg:core] dump config after ready, 7ms
+2018-12-13 10:10:23,651 INFO 64313 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:10:23,698 INFO 64313 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:10:23,699 INFO 64313 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:10:23,700 INFO 64313 [egg-multipart] stream mode enable
+2018-12-13 10:10:23,770 INFO 64313 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:10:23,772 INFO 64313 [egg-security] use csrf middleware
+2018-12-13 10:10:23,773 INFO 64313 [egg-security] use methodnoallow middleware
+2018-12-13 10:10:23,773 INFO 64313 [egg-security] use noopen middleware
+2018-12-13 10:10:23,775 INFO 64313 [egg-security] use nosniff middleware
+2018-12-13 10:10:23,775 INFO 64313 [egg-security] use xssProtection middleware
+2018-12-13 10:10:23,776 INFO 64313 [egg-security] use xframe middleware
+2018-12-13 10:10:23,776 INFO 64313 [egg-security] use dta middleware
+2018-12-13 10:10:23,776 INFO 64313 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:10:23,791 INFO 64313 [egg:core] dump config after load, 5ms
+2018-12-13 10:10:23,820 INFO 64313 [egg-watcher:application] watcher start success
+2018-12-13 10:10:23,853 INFO 64313 [egg:core] dump config after ready, 31ms
+2018-12-13 10:10:25,971 INFO 64313 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 10:10:39,790 INFO 64332 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:10:39,850 INFO 64332 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:10:39,850 INFO 64332 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:10:39,851 INFO 64332 [egg-multipart] stream mode enable
+2018-12-13 10:10:39,919 INFO 64332 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:10:39,923 INFO 64332 [egg-security] use csrf middleware
+2018-12-13 10:10:39,924 INFO 64332 [egg-security] use methodnoallow middleware
+2018-12-13 10:10:39,924 INFO 64332 [egg-security] use noopen middleware
+2018-12-13 10:10:39,925 INFO 64332 [egg-security] use nosniff middleware
+2018-12-13 10:10:39,926 INFO 64332 [egg-security] use xssProtection middleware
+2018-12-13 10:10:39,926 INFO 64332 [egg-security] use xframe middleware
+2018-12-13 10:10:39,927 INFO 64332 [egg-security] use dta middleware
+2018-12-13 10:10:39,927 INFO 64332 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:10:39,946 INFO 64332 [egg:core] dump config after load, 9ms
+2018-12-13 10:10:39,958 INFO 64332 [egg-watcher:application] watcher start success
+2018-12-13 10:10:39,965 INFO 64332 [egg:core] dump config after ready, 4ms
+2018-12-13 10:32:32,340 INFO 73394 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:32:32,385 INFO 73394 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:32:32,385 INFO 73394 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:32:32,386 INFO 73394 [egg-multipart] stream mode enable
+2018-12-13 10:32:32,488 INFO 73394 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:32:32,490 INFO 73394 [egg-security] use csrf middleware
+2018-12-13 10:32:32,492 INFO 73394 [egg-security] use methodnoallow middleware
+2018-12-13 10:32:32,492 INFO 73394 [egg-security] use noopen middleware
+2018-12-13 10:32:32,493 INFO 73394 [egg-security] use nosniff middleware
+2018-12-13 10:32:32,494 INFO 73394 [egg-security] use xssProtection middleware
+2018-12-13 10:32:32,495 INFO 73394 [egg-security] use xframe middleware
+2018-12-13 10:32:32,495 INFO 73394 [egg-security] use dta middleware
+2018-12-13 10:32:32,496 INFO 73394 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:32:32,512 INFO 73394 [egg:core] dump config after load, 11ms
+2018-12-13 10:32:32,530 INFO 73394 [egg-watcher:application] watcher start success
+2018-12-13 10:32:32,541 INFO 73394 [egg:core] dump config after ready, 9ms
+2018-12-13 10:32:34,547 INFO 73405 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:32:34,592 INFO 73405 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:32:34,593 INFO 73405 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:32:34,593 INFO 73405 [egg-multipart] stream mode enable
+2018-12-13 10:32:34,635 INFO 73405 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:32:34,637 INFO 73405 [egg-security] use csrf middleware
+2018-12-13 10:32:34,638 INFO 73405 [egg-security] use methodnoallow middleware
+2018-12-13 10:32:34,638 INFO 73405 [egg-security] use noopen middleware
+2018-12-13 10:32:34,639 INFO 73405 [egg-security] use nosniff middleware
+2018-12-13 10:32:34,639 INFO 73405 [egg-security] use xssProtection middleware
+2018-12-13 10:32:34,639 INFO 73405 [egg-security] use xframe middleware
+2018-12-13 10:32:34,640 INFO 73405 [egg-security] use dta middleware
+2018-12-13 10:32:34,640 INFO 73405 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:32:34,650 INFO 73405 [egg:core] dump config after load, 7ms
+2018-12-13 10:32:34,660 INFO 73405 [egg-watcher:application] watcher start success
+2018-12-13 10:32:34,666 INFO 73405 [egg:core] dump config after ready, 4ms
+2018-12-13 10:33:34,462 INFO 73808 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:33:34,580 INFO 73808 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:33:34,580 INFO 73808 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:33:34,580 INFO 73808 [egg-multipart] stream mode enable
+2018-12-13 10:33:34,767 INFO 73808 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:33:34,775 INFO 73808 [egg-security] use csrf middleware
+2018-12-13 10:33:34,778 INFO 73808 [egg-security] use methodnoallow middleware
+2018-12-13 10:33:34,778 INFO 73808 [egg-security] use noopen middleware
+2018-12-13 10:33:34,780 INFO 73808 [egg-security] use nosniff middleware
+2018-12-13 10:33:34,781 INFO 73808 [egg-security] use xssProtection middleware
+2018-12-13 10:33:34,784 INFO 73808 [egg-security] use xframe middleware
+2018-12-13 10:33:34,785 INFO 73808 [egg-security] use dta middleware
+2018-12-13 10:33:34,785 INFO 73808 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:33:34,811 INFO 73808 [egg:core] dump config after load, 21ms
+2018-12-13 10:33:34,872 INFO 73808 [egg-watcher:application] watcher start success
+2018-12-13 10:33:34,892 INFO 73808 [egg:core] dump config after ready, 15ms
+2018-12-13 10:33:43,892 INFO 73829 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:33:44,023 INFO 73829 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:33:44,023 INFO 73829 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:33:44,024 INFO 73829 [egg-multipart] stream mode enable
+2018-12-13 10:33:44,159 INFO 73829 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:33:44,162 INFO 73829 [egg-security] use csrf middleware
+2018-12-13 10:33:44,170 INFO 73829 [egg-security] use methodnoallow middleware
+2018-12-13 10:33:44,170 INFO 73829 [egg-security] use noopen middleware
+2018-12-13 10:33:44,172 INFO 73829 [egg-security] use nosniff middleware
+2018-12-13 10:33:44,172 INFO 73829 [egg-security] use xssProtection middleware
+2018-12-13 10:33:44,173 INFO 73829 [egg-security] use xframe middleware
+2018-12-13 10:33:44,174 INFO 73829 [egg-security] use dta middleware
+2018-12-13 10:33:44,174 INFO 73829 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:33:44,244 INFO 73829 [egg:core] dump config after load, 49ms
+2018-12-13 10:33:44,348 INFO 73829 [egg-watcher:application] watcher start success
+2018-12-13 10:33:44,361 INFO 73829 [egg:core] dump config after ready, 8ms
+2018-12-13 10:34:07,111 INFO 74176 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:34:07,290 INFO 74176 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:34:07,290 INFO 74176 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:34:07,291 INFO 74176 [egg-multipart] stream mode enable
+2018-12-13 10:34:07,491 INFO 74176 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:34:07,494 INFO 74176 [egg-security] use csrf middleware
+2018-12-13 10:34:07,496 INFO 74176 [egg-security] use methodnoallow middleware
+2018-12-13 10:34:07,496 INFO 74176 [egg-security] use noopen middleware
+2018-12-13 10:34:07,498 INFO 74176 [egg-security] use nosniff middleware
+2018-12-13 10:34:07,498 INFO 74176 [egg-security] use xssProtection middleware
+2018-12-13 10:34:07,499 INFO 74176 [egg-security] use xframe middleware
+2018-12-13 10:34:07,499 INFO 74176 [egg-security] use dta middleware
+2018-12-13 10:34:07,499 INFO 74176 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:34:07,547 INFO 74176 [egg:core] dump config after load, 38ms
+2018-12-13 10:34:07,573 INFO 74176 [egg-watcher:application] watcher start success
+2018-12-13 10:34:07,602 INFO 74176 [egg:core] dump config after ready, 10ms
+2018-12-13 10:35:23,909 INFO 74176 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 10:38:24,689 INFO 75766 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:38:24,752 INFO 75766 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:38:24,752 INFO 75766 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:38:24,754 INFO 75766 [egg-multipart] stream mode enable
+2018-12-13 10:38:24,825 INFO 75766 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:38:24,828 INFO 75766 [egg-security] use csrf middleware
+2018-12-13 10:38:24,829 INFO 75766 [egg-security] use methodnoallow middleware
+2018-12-13 10:38:24,829 INFO 75766 [egg-security] use noopen middleware
+2018-12-13 10:38:24,830 INFO 75766 [egg-security] use nosniff middleware
+2018-12-13 10:38:24,831 INFO 75766 [egg-security] use xssProtection middleware
+2018-12-13 10:38:24,832 INFO 75766 [egg-security] use xframe middleware
+2018-12-13 10:38:24,832 INFO 75766 [egg-security] use dta middleware
+2018-12-13 10:38:24,832 INFO 75766 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:38:24,845 INFO 75766 [egg:core] dump config after load, 7ms
+2018-12-13 10:38:24,862 INFO 75766 [egg-watcher:application] watcher start success
+2018-12-13 10:38:24,880 INFO 75766 [egg:core] dump config after ready, 13ms
+2018-12-13 10:40:09,984 INFO 76541 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:40:10,020 INFO 76541 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:40:10,020 INFO 76541 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:40:10,020 INFO 76541 [egg-multipart] stream mode enable
+2018-12-13 10:40:10,072 INFO 76541 [egg-static] starting static serve /public/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:40:10,074 INFO 76541 [egg-security] use csrf middleware
+2018-12-13 10:40:10,076 INFO 76541 [egg-security] use methodnoallow middleware
+2018-12-13 10:40:10,076 INFO 76541 [egg-security] use noopen middleware
+2018-12-13 10:40:10,077 INFO 76541 [egg-security] use nosniff middleware
+2018-12-13 10:40:10,077 INFO 76541 [egg-security] use xssProtection middleware
+2018-12-13 10:40:10,078 INFO 76541 [egg-security] use xframe middleware
+2018-12-13 10:40:10,078 INFO 76541 [egg-security] use dta middleware
+2018-12-13 10:40:10,078 INFO 76541 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:40:10,090 INFO 76541 [egg:core] dump config after load, 7ms
+2018-12-13 10:40:10,103 INFO 76541 [egg-watcher:application] watcher start success
+2018-12-13 10:40:10,110 INFO 76541 [egg:core] dump config after ready, 5ms
+2018-12-13 10:40:20,728 INFO 76571 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 10:40:20,760 INFO 76571 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 10:40:20,761 INFO 76571 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 10:40:20,761 INFO 76571 [egg-multipart] stream mode enable
+2018-12-13 10:40:20,802 INFO 76571 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 10:40:20,805 INFO 76571 [egg-security] use csrf middleware
+2018-12-13 10:40:20,805 INFO 76571 [egg-security] use methodnoallow middleware
+2018-12-13 10:40:20,806 INFO 76571 [egg-security] use noopen middleware
+2018-12-13 10:40:20,806 INFO 76571 [egg-security] use nosniff middleware
+2018-12-13 10:40:20,807 INFO 76571 [egg-security] use xssProtection middleware
+2018-12-13 10:40:20,807 INFO 76571 [egg-security] use xframe middleware
+2018-12-13 10:40:20,807 INFO 76571 [egg-security] use dta middleware
+2018-12-13 10:40:20,807 INFO 76571 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 10:40:20,819 INFO 76571 [egg:core] dump config after load, 9ms
+2018-12-13 10:40:20,837 INFO 76571 [egg-watcher:application] watcher start success
+2018-12-13 10:40:20,842 INFO 76571 [egg:core] dump config after ready, 3ms
+2018-12-13 10:40:38,027 INFO 76571 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 11:53:43,363 INFO 7200 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 11:53:43,399 INFO 7200 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 11:53:43,399 INFO 7200 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 11:53:43,400 INFO 7200 [egg-multipart] stream mode enable
+2018-12-13 11:53:43,482 INFO 7200 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 11:53:43,486 INFO 7200 [egg-security] use csrf middleware
+2018-12-13 11:53:43,489 INFO 7200 [egg-security] use methodnoallow middleware
+2018-12-13 11:53:43,490 INFO 7200 [egg-security] use noopen middleware
+2018-12-13 11:53:43,492 INFO 7200 [egg-security] use nosniff middleware
+2018-12-13 11:53:43,493 INFO 7200 [egg-security] use xssProtection middleware
+2018-12-13 11:53:43,493 INFO 7200 [egg-security] use xframe middleware
+2018-12-13 11:53:43,494 INFO 7200 [egg-security] use dta middleware
+2018-12-13 11:53:43,494 INFO 7200 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 11:53:43,513 INFO 7200 [egg:core] dump config after load, 11ms
+2018-12-13 11:53:43,532 INFO 7200 [egg-watcher:application] watcher start success
+2018-12-13 11:53:43,538 INFO 7200 [egg:core] dump config after ready, 4ms
+2018-12-13 11:54:07,290 INFO 7613 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 11:54:07,326 INFO 7613 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 11:54:07,327 INFO 7613 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 11:54:07,327 INFO 7613 [egg-multipart] stream mode enable
+2018-12-13 11:54:07,393 INFO 7613 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 11:54:07,396 INFO 7613 [egg-security] use csrf middleware
+2018-12-13 11:54:07,398 INFO 7613 [egg-security] use methodnoallow middleware
+2018-12-13 11:54:07,399 INFO 7613 [egg-security] use noopen middleware
+2018-12-13 11:54:07,400 INFO 7613 [egg-security] use nosniff middleware
+2018-12-13 11:54:07,401 INFO 7613 [egg-security] use xssProtection middleware
+2018-12-13 11:54:07,402 INFO 7613 [egg-security] use xframe middleware
+2018-12-13 11:54:07,402 INFO 7613 [egg-security] use dta middleware
+2018-12-13 11:54:07,402 INFO 7613 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 11:54:07,412 INFO 7613 [egg:core] dump config after load, 5ms
+2018-12-13 11:54:07,430 INFO 7613 [egg-watcher:application] watcher start success
+2018-12-13 11:54:07,436 INFO 7613 [egg:core] dump config after ready, 4ms
+2018-12-13 11:54:09,569 INFO 7628 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 11:54:09,602 INFO 7628 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 11:54:09,602 INFO 7628 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 11:54:09,603 INFO 7628 [egg-multipart] stream mode enable
+2018-12-13 11:54:09,644 INFO 7628 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 11:54:09,646 INFO 7628 [egg-security] use csrf middleware
+2018-12-13 11:54:09,647 INFO 7628 [egg-security] use methodnoallow middleware
+2018-12-13 11:54:09,647 INFO 7628 [egg-security] use noopen middleware
+2018-12-13 11:54:09,648 INFO 7628 [egg-security] use nosniff middleware
+2018-12-13 11:54:09,648 INFO 7628 [egg-security] use xssProtection middleware
+2018-12-13 11:54:09,648 INFO 7628 [egg-security] use xframe middleware
+2018-12-13 11:54:09,649 INFO 7628 [egg-security] use dta middleware
+2018-12-13 11:54:09,649 INFO 7628 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 11:54:09,681 INFO 7628 [egg:core] dump config after load, 29ms
+2018-12-13 11:54:09,698 INFO 7628 [egg-watcher:application] watcher start success
+2018-12-13 11:54:09,703 INFO 7628 [egg:core] dump config after ready, 3ms
+2018-12-13 11:54:13,185 INFO 7646 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 11:54:13,234 INFO 7646 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 11:54:13,234 INFO 7646 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 11:54:13,236 INFO 7646 [egg-multipart] stream mode enable
+2018-12-13 11:54:13,396 INFO 7646 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 11:54:13,423 INFO 7646 [egg-security] use csrf middleware
+2018-12-13 11:54:13,428 INFO 7646 [egg-security] use methodnoallow middleware
+2018-12-13 11:54:13,430 INFO 7646 [egg-security] use noopen middleware
+2018-12-13 11:54:13,433 INFO 7646 [egg-security] use nosniff middleware
+2018-12-13 11:54:13,436 INFO 7646 [egg-security] use xssProtection middleware
+2018-12-13 11:54:13,438 INFO 7646 [egg-security] use xframe middleware
+2018-12-13 11:54:13,439 INFO 7646 [egg-security] use dta middleware
+2018-12-13 11:54:13,441 INFO 7646 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 11:54:13,468 INFO 7646 [egg:core] dump config after load, 12ms
+2018-12-13 11:54:13,525 INFO 7646 [egg-watcher:application] watcher start success
+2018-12-13 11:54:13,558 INFO 7646 [egg:core] dump config after ready, 21ms
+2018-12-13 11:54:56,502 INFO 7703 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 11:54:56,546 INFO 7703 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 11:54:56,546 INFO 7703 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 11:54:56,547 INFO 7703 [egg-multipart] stream mode enable
+2018-12-13 11:54:56,606 INFO 7703 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 11:54:56,608 INFO 7703 [egg-security] use csrf middleware
+2018-12-13 11:54:56,609 INFO 7703 [egg-security] use methodnoallow middleware
+2018-12-13 11:54:56,609 INFO 7703 [egg-security] use noopen middleware
+2018-12-13 11:54:56,610 INFO 7703 [egg-security] use nosniff middleware
+2018-12-13 11:54:56,611 INFO 7703 [egg-security] use xssProtection middleware
+2018-12-13 11:54:56,611 INFO 7703 [egg-security] use xframe middleware
+2018-12-13 11:54:56,612 INFO 7703 [egg-security] use dta middleware
+2018-12-13 11:54:56,612 INFO 7703 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 11:54:56,623 INFO 7703 [egg:core] dump config after load, 7ms
+2018-12-13 11:54:56,638 INFO 7703 [egg-watcher:application] watcher start success
+2018-12-13 11:54:56,651 INFO 7703 [egg:core] dump config after ready, 11ms
+2018-12-13 11:58:01,239 INFO 8852 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 11:58:01,303 INFO 8852 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 11:58:01,303 INFO 8852 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 11:58:01,305 INFO 8852 [egg-multipart] stream mode enable
+2018-12-13 11:58:01,423 INFO 8852 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 11:58:01,427 INFO 8852 [egg-security] use csrf middleware
+2018-12-13 11:58:01,428 INFO 8852 [egg-security] use methodnoallow middleware
+2018-12-13 11:58:01,428 INFO 8852 [egg-security] use noopen middleware
+2018-12-13 11:58:01,429 INFO 8852 [egg-security] use nosniff middleware
+2018-12-13 11:58:01,430 INFO 8852 [egg-security] use xssProtection middleware
+2018-12-13 11:58:01,431 INFO 8852 [egg-security] use xframe middleware
+2018-12-13 11:58:01,431 INFO 8852 [egg-security] use dta middleware
+2018-12-13 11:58:01,431 INFO 8852 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 11:58:01,442 INFO 8852 [egg:core] dump config after load, 7ms
+2018-12-13 11:58:01,467 INFO 8852 [egg-watcher:application] watcher start success
+2018-12-13 11:58:01,476 INFO 8852 [egg:core] dump config after ready, 6ms
+2018-12-13 11:58:03,399 INFO 9019 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 11:58:03,463 INFO 9019 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 11:58:03,463 INFO 9019 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 11:58:03,464 INFO 9019 [egg-multipart] stream mode enable
+2018-12-13 11:58:03,560 INFO 9019 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 11:58:03,565 INFO 9019 [egg-security] use csrf middleware
+2018-12-13 11:58:03,566 INFO 9019 [egg-security] use methodnoallow middleware
+2018-12-13 11:58:03,566 INFO 9019 [egg-security] use noopen middleware
+2018-12-13 11:58:03,567 INFO 9019 [egg-security] use nosniff middleware
+2018-12-13 11:58:03,568 INFO 9019 [egg-security] use xssProtection middleware
+2018-12-13 11:58:03,569 INFO 9019 [egg-security] use xframe middleware
+2018-12-13 11:58:03,569 INFO 9019 [egg-security] use dta middleware
+2018-12-13 11:58:03,569 INFO 9019 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 11:58:03,583 INFO 9019 [egg:core] dump config after load, 8ms
+2018-12-13 11:58:03,601 INFO 9019 [egg-watcher:application] watcher start success
+2018-12-13 11:58:03,612 INFO 9019 [egg:core] dump config after ready, 8ms
+2018-12-13 11:58:40,315 INFO 9336 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 11:58:40,353 INFO 9336 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 11:58:40,353 INFO 9336 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 11:58:40,355 INFO 9336 [egg-multipart] stream mode enable
+2018-12-13 11:58:40,402 INFO 9336 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 11:58:40,404 INFO 9336 [egg-security] use csrf middleware
+2018-12-13 11:58:40,405 INFO 9336 [egg-security] use methodnoallow middleware
+2018-12-13 11:58:40,405 INFO 9336 [egg-security] use noopen middleware
+2018-12-13 11:58:40,406 INFO 9336 [egg-security] use nosniff middleware
+2018-12-13 11:58:40,406 INFO 9336 [egg-security] use xssProtection middleware
+2018-12-13 11:58:40,406 INFO 9336 [egg-security] use xframe middleware
+2018-12-13 11:58:40,406 INFO 9336 [egg-security] use dta middleware
+2018-12-13 11:58:40,406 INFO 9336 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 11:58:40,415 INFO 9336 [egg:core] dump config after load, 5ms
+2018-12-13 11:58:40,426 INFO 9336 [egg-watcher:application] watcher start success
+2018-12-13 11:58:40,431 INFO 9336 [egg:core] dump config after ready, 4ms
+2018-12-13 11:58:59,922 INFO 9385 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 11:58:59,960 INFO 9385 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 11:58:59,960 INFO 9385 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 11:58:59,960 INFO 9385 [egg-multipart] stream mode enable
+2018-12-13 11:59:00,010 INFO 9385 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 11:59:00,012 INFO 9385 [egg-security] use csrf middleware
+2018-12-13 11:59:00,013 INFO 9385 [egg-security] use methodnoallow middleware
+2018-12-13 11:59:00,013 INFO 9385 [egg-security] use noopen middleware
+2018-12-13 11:59:00,014 INFO 9385 [egg-security] use nosniff middleware
+2018-12-13 11:59:00,014 INFO 9385 [egg-security] use xssProtection middleware
+2018-12-13 11:59:00,014 INFO 9385 [egg-security] use xframe middleware
+2018-12-13 11:59:00,015 INFO 9385 [egg-security] use dta middleware
+2018-12-13 11:59:00,015 INFO 9385 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 11:59:00,026 INFO 9385 [egg:core] dump config after load, 5ms
+2018-12-13 11:59:00,043 INFO 9385 [egg-watcher:application] watcher start success
+2018-12-13 11:59:00,050 INFO 9385 [egg:core] dump config after ready, 6ms
+2018-12-13 11:59:16,998 INFO 9811 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 11:59:17,040 INFO 9811 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 11:59:17,040 INFO 9811 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 11:59:17,040 INFO 9811 [egg-multipart] stream mode enable
+2018-12-13 11:59:17,082 INFO 9811 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 11:59:17,084 INFO 9811 [egg-security] use csrf middleware
+2018-12-13 11:59:17,085 INFO 9811 [egg-security] use methodnoallow middleware
+2018-12-13 11:59:17,085 INFO 9811 [egg-security] use noopen middleware
+2018-12-13 11:59:17,086 INFO 9811 [egg-security] use nosniff middleware
+2018-12-13 11:59:17,086 INFO 9811 [egg-security] use xssProtection middleware
+2018-12-13 11:59:17,086 INFO 9811 [egg-security] use xframe middleware
+2018-12-13 11:59:17,086 INFO 9811 [egg-security] use dta middleware
+2018-12-13 11:59:17,086 INFO 9811 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 11:59:17,095 INFO 9811 [egg:core] dump config after load, 5ms
+2018-12-13 11:59:17,109 INFO 9811 [egg-watcher:application] watcher start success
+2018-12-13 11:59:17,114 INFO 9811 [egg:core] dump config after ready, 3ms
+2018-12-13 13:46:23,849 INFO 51361 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 13:46:23,882 INFO 51361 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 13:46:23,882 INFO 51361 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 13:46:23,882 INFO 51361 [egg-multipart] stream mode enable
+2018-12-13 13:46:23,943 INFO 51361 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 13:46:23,945 INFO 51361 [egg-security] use csrf middleware
+2018-12-13 13:46:23,946 INFO 51361 [egg-security] use methodnoallow middleware
+2018-12-13 13:46:23,947 INFO 51361 [egg-security] use noopen middleware
+2018-12-13 13:46:23,948 INFO 51361 [egg-security] use nosniff middleware
+2018-12-13 13:46:23,948 INFO 51361 [egg-security] use xssProtection middleware
+2018-12-13 13:46:23,949 INFO 51361 [egg-security] use xframe middleware
+2018-12-13 13:46:23,950 INFO 51361 [egg-security] use dta middleware
+2018-12-13 13:46:23,950 INFO 51361 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 13:46:23,958 INFO 51361 [egg:core] dump config after load, 5ms
+2018-12-13 13:46:23,972 INFO 51361 [egg-watcher:application] watcher start success
+2018-12-13 13:46:23,979 INFO 51361 [egg:core] dump config after ready, 5ms
+2018-12-13 13:46:29,179 INFO 51361 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 16:29:56,658 INFO 15872 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 16:29:56,791 INFO 15872 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 16:29:56,791 INFO 15872 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 16:29:56,792 INFO 15872 [egg-multipart] stream mode enable
+2018-12-13 16:29:56,894 INFO 15872 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 16:29:56,900 INFO 15872 [egg-security] use csrf middleware
+2018-12-13 16:29:56,901 INFO 15872 [egg-security] use methodnoallow middleware
+2018-12-13 16:29:56,902 INFO 15872 [egg-security] use noopen middleware
+2018-12-13 16:29:56,903 INFO 15872 [egg-security] use nosniff middleware
+2018-12-13 16:29:56,903 INFO 15872 [egg-security] use xssProtection middleware
+2018-12-13 16:29:56,904 INFO 15872 [egg-security] use xframe middleware
+2018-12-13 16:29:56,905 INFO 15872 [egg-security] use dta middleware
+2018-12-13 16:29:56,905 INFO 15872 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 16:29:56,940 INFO 15872 [egg:core] dump config after load, 17ms
+2018-12-13 16:29:56,967 INFO 15872 [egg-watcher:application] watcher start success
+2018-12-13 16:29:56,976 INFO 15872 [egg:core] dump config after ready, 5ms
+2018-12-13 16:30:04,752 INFO 16331 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 16:30:04,824 INFO 16331 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 16:30:04,824 INFO 16331 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 16:30:04,826 INFO 16331 [egg-multipart] stream mode enable
+2018-12-13 16:30:04,990 INFO 16331 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 16:30:04,999 INFO 16331 [egg-security] use csrf middleware
+2018-12-13 16:30:05,001 INFO 16331 [egg-security] use methodnoallow middleware
+2018-12-13 16:30:05,002 INFO 16331 [egg-security] use noopen middleware
+2018-12-13 16:30:05,005 INFO 16331 [egg-security] use nosniff middleware
+2018-12-13 16:30:05,006 INFO 16331 [egg-security] use xssProtection middleware
+2018-12-13 16:30:05,008 INFO 16331 [egg-security] use xframe middleware
+2018-12-13 16:30:05,010 INFO 16331 [egg-security] use dta middleware
+2018-12-13 16:30:05,010 INFO 16331 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 16:30:05,024 INFO 16331 [egg:core] dump config after load, 7ms
+2018-12-13 16:30:05,041 INFO 16331 [egg-watcher:application] watcher start success
+2018-12-13 16:30:05,049 INFO 16331 [egg:core] dump config after ready, 6ms
+2018-12-13 16:30:51,901 INFO 16535 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 16:30:51,939 INFO 16535 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 16:30:51,940 INFO 16535 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 16:30:51,940 INFO 16535 [egg-multipart] stream mode enable
+2018-12-13 16:30:52,105 INFO 16535 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 16:30:52,108 INFO 16535 [egg-security] use csrf middleware
+2018-12-13 16:30:52,111 INFO 16535 [egg-security] use methodnoallow middleware
+2018-12-13 16:30:52,113 INFO 16535 [egg-security] use noopen middleware
+2018-12-13 16:30:52,115 INFO 16535 [egg-security] use nosniff middleware
+2018-12-13 16:30:52,116 INFO 16535 [egg-security] use xssProtection middleware
+2018-12-13 16:30:52,116 INFO 16535 [egg-security] use xframe middleware
+2018-12-13 16:30:52,117 INFO 16535 [egg-security] use dta middleware
+2018-12-13 16:30:52,117 INFO 16535 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 16:30:52,133 INFO 16535 [egg:core] dump config after load, 10ms
+2018-12-13 16:30:52,148 INFO 16535 [egg-watcher:application] watcher start success
+2018-12-13 16:30:52,162 INFO 16535 [egg:core] dump config after ready, 7ms
+2018-12-13 17:43:32,849 INFO 55840 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:43:32,884 INFO 55840 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:43:32,884 INFO 55840 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:43:32,885 INFO 55840 [egg-multipart] stream mode enable
+2018-12-13 17:43:32,968 INFO 55840 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:43:32,971 INFO 55840 [egg-security] use csrf middleware
+2018-12-13 17:43:32,973 INFO 55840 [egg-security] use methodnoallow middleware
+2018-12-13 17:43:32,973 INFO 55840 [egg-security] use noopen middleware
+2018-12-13 17:43:32,974 INFO 55840 [egg-security] use nosniff middleware
+2018-12-13 17:43:32,975 INFO 55840 [egg-security] use xssProtection middleware
+2018-12-13 17:43:32,976 INFO 55840 [egg-security] use xframe middleware
+2018-12-13 17:43:32,977 INFO 55840 [egg-security] use dta middleware
+2018-12-13 17:43:32,977 INFO 55840 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:43:32,986 INFO 55840 [egg:core] dump config after load, 5ms
+2018-12-13 17:43:33,002 INFO 55840 [egg-watcher:application] watcher start success
+2018-12-13 17:43:33,010 INFO 55840 [egg:core] dump config after ready, 4ms
+2018-12-13 17:44:09,141 INFO 16535 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 17:52:38,031 INFO 59509 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:52:38,073 INFO 59509 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:52:38,073 INFO 59509 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:52:38,073 INFO 59509 [egg-multipart] stream mode enable
+2018-12-13 17:52:38,115 INFO 59509 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:52:38,117 INFO 59509 [egg-security] use csrf middleware
+2018-12-13 17:52:38,118 INFO 59509 [egg-security] use methodnoallow middleware
+2018-12-13 17:52:38,118 INFO 59509 [egg-security] use noopen middleware
+2018-12-13 17:52:38,119 INFO 59509 [egg-security] use nosniff middleware
+2018-12-13 17:52:38,119 INFO 59509 [egg-security] use xssProtection middleware
+2018-12-13 17:52:38,119 INFO 59509 [egg-security] use xframe middleware
+2018-12-13 17:52:38,120 INFO 59509 [egg-security] use dta middleware
+2018-12-13 17:52:38,120 INFO 59509 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:52:38,130 INFO 59509 [egg:core] dump config after load, 5ms
+2018-12-13 17:52:38,145 INFO 59509 [egg-watcher:application] watcher start success
+2018-12-13 17:52:38,151 INFO 59509 [egg:core] dump config after ready, 5ms
+2018-12-13 17:52:41,107 INFO 59509 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 17:53:47,563 INFO 59908 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:53:47,603 INFO 59908 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:53:47,603 INFO 59908 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:53:47,604 INFO 59908 [egg-multipart] stream mode enable
+2018-12-13 17:53:47,679 INFO 59908 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:53:47,682 INFO 59908 [egg-security] use csrf middleware
+2018-12-13 17:53:47,684 INFO 59908 [egg-security] use methodnoallow middleware
+2018-12-13 17:53:47,686 INFO 59908 [egg-security] use noopen middleware
+2018-12-13 17:53:47,688 INFO 59908 [egg-security] use nosniff middleware
+2018-12-13 17:53:47,689 INFO 59908 [egg-security] use xssProtection middleware
+2018-12-13 17:53:47,690 INFO 59908 [egg-security] use xframe middleware
+2018-12-13 17:53:47,691 INFO 59908 [egg-security] use dta middleware
+2018-12-13 17:53:47,691 INFO 59908 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:53:47,703 INFO 59908 [egg:core] dump config after load, 7ms
+2018-12-13 17:53:47,725 INFO 59908 [egg-watcher:application] watcher start success
+2018-12-13 17:53:47,733 INFO 59908 [egg:core] dump config after ready, 5ms
+2018-12-13 17:54:00,198 INFO 59932 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:54:00,231 INFO 59932 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:54:00,232 INFO 59932 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:54:00,232 INFO 59932 [egg-multipart] stream mode enable
+2018-12-13 17:54:00,272 INFO 59932 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:54:00,275 INFO 59932 [egg-security] use csrf middleware
+2018-12-13 17:54:00,275 INFO 59932 [egg-security] use methodnoallow middleware
+2018-12-13 17:54:00,276 INFO 59932 [egg-security] use noopen middleware
+2018-12-13 17:54:00,276 INFO 59932 [egg-security] use nosniff middleware
+2018-12-13 17:54:00,277 INFO 59932 [egg-security] use xssProtection middleware
+2018-12-13 17:54:00,277 INFO 59932 [egg-security] use xframe middleware
+2018-12-13 17:54:00,277 INFO 59932 [egg-security] use dta middleware
+2018-12-13 17:54:00,277 INFO 59932 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:54:00,286 INFO 59932 [egg:core] dump config after load, 5ms
+2018-12-13 17:54:00,297 INFO 59932 [egg-watcher:application] watcher start success
+2018-12-13 17:54:00,303 INFO 59932 [egg:core] dump config after ready, 4ms
+2018-12-13 17:54:04,030 INFO 60269 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:54:04,063 INFO 60269 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:54:04,063 INFO 60269 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:54:04,063 INFO 60269 [egg-multipart] stream mode enable
+2018-12-13 17:54:04,105 INFO 60269 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:54:04,108 INFO 60269 [egg-security] use csrf middleware
+2018-12-13 17:54:04,108 INFO 60269 [egg-security] use methodnoallow middleware
+2018-12-13 17:54:04,109 INFO 60269 [egg-security] use noopen middleware
+2018-12-13 17:54:04,109 INFO 60269 [egg-security] use nosniff middleware
+2018-12-13 17:54:04,110 INFO 60269 [egg-security] use xssProtection middleware
+2018-12-13 17:54:04,110 INFO 60269 [egg-security] use xframe middleware
+2018-12-13 17:54:04,111 INFO 60269 [egg-security] use dta middleware
+2018-12-13 17:54:04,111 INFO 60269 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:54:04,120 INFO 60269 [egg:core] dump config after load, 5ms
+2018-12-13 17:54:04,131 INFO 60269 [egg-watcher:application] watcher start success
+2018-12-13 17:54:04,145 INFO 60269 [egg:core] dump config after ready, 11ms
+2018-12-13 17:54:21,510 INFO 60303 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:54:21,542 INFO 60303 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:54:21,542 INFO 60303 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:54:21,542 INFO 60303 [egg-multipart] stream mode enable
+2018-12-13 17:54:21,583 INFO 60303 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:54:21,585 INFO 60303 [egg-security] use csrf middleware
+2018-12-13 17:54:21,586 INFO 60303 [egg-security] use methodnoallow middleware
+2018-12-13 17:54:21,586 INFO 60303 [egg-security] use noopen middleware
+2018-12-13 17:54:21,586 INFO 60303 [egg-security] use nosniff middleware
+2018-12-13 17:54:21,587 INFO 60303 [egg-security] use xssProtection middleware
+2018-12-13 17:54:21,587 INFO 60303 [egg-security] use xframe middleware
+2018-12-13 17:54:21,587 INFO 60303 [egg-security] use dta middleware
+2018-12-13 17:54:21,587 INFO 60303 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:54:21,597 INFO 60303 [egg:core] dump config after load, 5ms
+2018-12-13 17:54:21,608 INFO 60303 [egg-watcher:application] watcher start success
+2018-12-13 17:54:21,614 INFO 60303 [egg:core] dump config after ready, 4ms
+2018-12-13 17:54:22,675 INFO 60303 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 17:54:23,338 INFO 60307 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:54:23,380 INFO 60307 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:54:23,380 INFO 60307 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:54:23,381 INFO 60307 [egg-multipart] stream mode enable
+2018-12-13 17:54:23,430 INFO 60307 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:54:23,432 INFO 60307 [egg-security] use csrf middleware
+2018-12-13 17:54:23,433 INFO 60307 [egg-security] use methodnoallow middleware
+2018-12-13 17:54:23,433 INFO 60307 [egg-security] use noopen middleware
+2018-12-13 17:54:23,434 INFO 60307 [egg-security] use nosniff middleware
+2018-12-13 17:54:23,434 INFO 60307 [egg-security] use xssProtection middleware
+2018-12-13 17:54:23,434 INFO 60307 [egg-security] use xframe middleware
+2018-12-13 17:54:23,435 INFO 60307 [egg-security] use dta middleware
+2018-12-13 17:54:23,435 INFO 60307 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:54:23,443 INFO 60307 [egg:core] dump config after load, 5ms
+2018-12-13 17:54:23,454 INFO 60307 [egg-watcher:application] watcher start success
+2018-12-13 17:54:23,461 INFO 60307 [egg:core] dump config after ready, 4ms
+2018-12-13 17:54:23,801 INFO 60307 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 17:54:40,513 INFO 60329 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:54:40,547 INFO 60329 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:54:40,547 INFO 60329 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:54:40,548 INFO 60329 [egg-multipart] stream mode enable
+2018-12-13 17:54:40,589 INFO 60329 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:54:40,591 INFO 60329 [egg-security] use csrf middleware
+2018-12-13 17:54:40,592 INFO 60329 [egg-security] use methodnoallow middleware
+2018-12-13 17:54:40,592 INFO 60329 [egg-security] use noopen middleware
+2018-12-13 17:54:40,593 INFO 60329 [egg-security] use nosniff middleware
+2018-12-13 17:54:40,593 INFO 60329 [egg-security] use xssProtection middleware
+2018-12-13 17:54:40,594 INFO 60329 [egg-security] use xframe middleware
+2018-12-13 17:54:40,594 INFO 60329 [egg-security] use dta middleware
+2018-12-13 17:54:40,594 INFO 60329 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:54:40,603 INFO 60329 [egg:core] dump config after load, 5ms
+2018-12-13 17:54:40,614 INFO 60329 [egg-watcher:application] watcher start success
+2018-12-13 17:54:40,620 INFO 60329 [egg:core] dump config after ready, 4ms
+2018-12-13 17:54:41,559 INFO 60332 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:54:41,600 INFO 60332 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:54:41,600 INFO 60332 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:54:41,601 INFO 60332 [egg-multipart] stream mode enable
+2018-12-13 17:54:41,654 INFO 60332 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:54:41,657 INFO 60332 [egg-security] use csrf middleware
+2018-12-13 17:54:41,658 INFO 60332 [egg-security] use methodnoallow middleware
+2018-12-13 17:54:41,658 INFO 60332 [egg-security] use noopen middleware
+2018-12-13 17:54:41,659 INFO 60332 [egg-security] use nosniff middleware
+2018-12-13 17:54:41,660 INFO 60332 [egg-security] use xssProtection middleware
+2018-12-13 17:54:41,660 INFO 60332 [egg-security] use xframe middleware
+2018-12-13 17:54:41,661 INFO 60332 [egg-security] use dta middleware
+2018-12-13 17:54:41,661 INFO 60332 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:54:41,676 INFO 60332 [egg:core] dump config after load, 7ms
+2018-12-13 17:54:41,690 INFO 60332 [egg-watcher:application] watcher start success
+2018-12-13 17:54:41,697 INFO 60332 [egg:core] dump config after ready, 5ms
+2018-12-13 17:55:11,739 INFO 60690 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:55:11,788 INFO 60690 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:55:11,788 INFO 60690 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:55:11,788 INFO 60690 [egg-multipart] stream mode enable
+2018-12-13 17:55:11,829 INFO 60690 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:55:11,831 INFO 60690 [egg-security] use csrf middleware
+2018-12-13 17:55:11,832 INFO 60690 [egg-security] use methodnoallow middleware
+2018-12-13 17:55:11,832 INFO 60690 [egg-security] use noopen middleware
+2018-12-13 17:55:11,832 INFO 60690 [egg-security] use nosniff middleware
+2018-12-13 17:55:11,833 INFO 60690 [egg-security] use xssProtection middleware
+2018-12-13 17:55:11,833 INFO 60690 [egg-security] use xframe middleware
+2018-12-13 17:55:11,833 INFO 60690 [egg-security] use dta middleware
+2018-12-13 17:55:11,833 INFO 60690 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:55:11,842 INFO 60690 [egg:core] dump config after load, 5ms
+2018-12-13 17:55:11,853 INFO 60690 [egg-watcher:application] watcher start success
+2018-12-13 17:55:11,859 INFO 60690 [egg:core] dump config after ready, 3ms
+2018-12-13 17:55:24,638 INFO 60690 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 17:55:24,913 INFO 60714 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:55:24,981 INFO 60714 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:55:24,981 INFO 60714 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:55:24,982 INFO 60714 [egg-multipart] stream mode enable
+2018-12-13 17:55:25,095 INFO 60714 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:55:25,099 INFO 60714 [egg-security] use csrf middleware
+2018-12-13 17:55:25,101 INFO 60714 [egg-security] use methodnoallow middleware
+2018-12-13 17:55:25,102 INFO 60714 [egg-security] use noopen middleware
+2018-12-13 17:55:25,103 INFO 60714 [egg-security] use nosniff middleware
+2018-12-13 17:55:25,104 INFO 60714 [egg-security] use xssProtection middleware
+2018-12-13 17:55:25,104 INFO 60714 [egg-security] use xframe middleware
+2018-12-13 17:55:25,105 INFO 60714 [egg-security] use dta middleware
+2018-12-13 17:55:25,105 INFO 60714 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:55:25,121 INFO 60714 [egg:core] dump config after load, 7ms
+2018-12-13 17:55:25,136 INFO 60714 [egg-watcher:application] watcher start success
+2018-12-13 17:55:25,145 INFO 60714 [egg:core] dump config after ready, 6ms
+2018-12-13 17:55:26,402 INFO 60714 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 17:55:36,903 INFO 60736 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:55:37,041 INFO 60736 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:55:37,041 INFO 60736 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:55:37,044 INFO 60736 [egg-multipart] stream mode enable
+2018-12-13 17:55:37,178 INFO 60736 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:55:37,184 INFO 60736 [egg-security] use csrf middleware
+2018-12-13 17:55:37,187 INFO 60736 [egg-security] use methodnoallow middleware
+2018-12-13 17:55:37,188 INFO 60736 [egg-security] use noopen middleware
+2018-12-13 17:55:37,190 INFO 60736 [egg-security] use nosniff middleware
+2018-12-13 17:55:37,193 INFO 60736 [egg-security] use xssProtection middleware
+2018-12-13 17:55:37,196 INFO 60736 [egg-security] use xframe middleware
+2018-12-13 17:55:37,198 INFO 60736 [egg-security] use dta middleware
+2018-12-13 17:55:37,198 INFO 60736 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:55:37,221 INFO 60736 [egg:core] dump config after load, 7ms
+2018-12-13 17:55:37,246 INFO 60736 [egg-watcher:application] watcher start success
+2018-12-13 17:55:37,266 INFO 60736 [egg:core] dump config after ready, 16ms
+2018-12-13 17:55:38,067 INFO 60736 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 17:55:45,794 INFO 60753 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:55:45,829 INFO 60753 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:55:45,829 INFO 60753 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:55:45,829 INFO 60753 [egg-multipart] stream mode enable
+2018-12-13 17:55:45,874 INFO 60753 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:55:45,876 INFO 60753 [egg-security] use csrf middleware
+2018-12-13 17:55:45,877 INFO 60753 [egg-security] use methodnoallow middleware
+2018-12-13 17:55:45,877 INFO 60753 [egg-security] use noopen middleware
+2018-12-13 17:55:45,878 INFO 60753 [egg-security] use nosniff middleware
+2018-12-13 17:55:45,878 INFO 60753 [egg-security] use xssProtection middleware
+2018-12-13 17:55:45,878 INFO 60753 [egg-security] use xframe middleware
+2018-12-13 17:55:45,879 INFO 60753 [egg-security] use dta middleware
+2018-12-13 17:55:45,879 INFO 60753 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:55:45,889 INFO 60753 [egg:core] dump config after load, 6ms
+2018-12-13 17:55:45,900 INFO 60753 [egg-watcher:application] watcher start success
+2018-12-13 17:55:45,913 INFO 60753 [egg:core] dump config after ready, 11ms
+2018-12-13 17:55:46,727 INFO 60762 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:55:46,765 INFO 60762 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:55:46,765 INFO 60762 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:55:46,765 INFO 60762 [egg-multipart] stream mode enable
+2018-12-13 17:55:46,818 INFO 60762 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:55:46,822 INFO 60762 [egg-security] use csrf middleware
+2018-12-13 17:55:46,824 INFO 60762 [egg-security] use methodnoallow middleware
+2018-12-13 17:55:46,825 INFO 60762 [egg-security] use noopen middleware
+2018-12-13 17:55:46,826 INFO 60762 [egg-security] use nosniff middleware
+2018-12-13 17:55:46,827 INFO 60762 [egg-security] use xssProtection middleware
+2018-12-13 17:55:46,827 INFO 60762 [egg-security] use xframe middleware
+2018-12-13 17:55:46,827 INFO 60762 [egg-security] use dta middleware
+2018-12-13 17:55:46,827 INFO 60762 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:55:46,836 INFO 60762 [egg:core] dump config after load, 5ms
+2018-12-13 17:55:46,852 INFO 60762 [egg-watcher:application] watcher start success
+2018-12-13 17:55:46,833 INFO 60763 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:55:46,897 INFO 60763 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:55:46,897 INFO 60763 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:55:46,898 INFO 60763 [egg-multipart] stream mode enable
+2018-12-13 17:55:46,971 INFO 60763 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:55:46,973 INFO 60763 [egg-security] use csrf middleware
+2018-12-13 17:55:46,975 INFO 60763 [egg-security] use methodnoallow middleware
+2018-12-13 17:55:46,976 INFO 60763 [egg-security] use noopen middleware
+2018-12-13 17:55:46,980 INFO 60763 [egg-security] use nosniff middleware
+2018-12-13 17:55:46,982 INFO 60763 [egg-security] use xssProtection middleware
+2018-12-13 17:55:46,983 INFO 60763 [egg-security] use xframe middleware
+2018-12-13 17:55:46,983 INFO 60763 [egg-security] use dta middleware
+2018-12-13 17:55:46,983 INFO 60763 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:55:46,998 INFO 60763 [egg:core] dump config after load, 8ms
+2018-12-13 17:55:47,012 INFO 60763 [egg-watcher:application] watcher start success
+2018-12-13 17:55:47,019 INFO 60763 [egg:core] dump config after ready, 5ms
+2018-12-13 17:55:47,872 INFO 60764 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:55:47,926 INFO 60764 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:55:47,926 INFO 60764 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:55:47,927 INFO 60764 [egg-multipart] stream mode enable
+2018-12-13 17:55:48,033 INFO 60764 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:55:48,035 INFO 60764 [egg-security] use csrf middleware
+2018-12-13 17:55:48,036 INFO 60764 [egg-security] use methodnoallow middleware
+2018-12-13 17:55:48,036 INFO 60764 [egg-security] use noopen middleware
+2018-12-13 17:55:48,037 INFO 60764 [egg-security] use nosniff middleware
+2018-12-13 17:55:48,038 INFO 60764 [egg-security] use xssProtection middleware
+2018-12-13 17:55:48,038 INFO 60764 [egg-security] use xframe middleware
+2018-12-13 17:55:48,038 INFO 60764 [egg-security] use dta middleware
+2018-12-13 17:55:48,038 INFO 60764 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:55:48,048 INFO 60764 [egg:core] dump config after load, 6ms
+2018-12-13 17:55:48,062 INFO 60764 [egg-watcher:application] watcher start success
+2018-12-13 17:55:48,076 INFO 60764 [egg:core] dump config after ready, 11ms
+2018-12-13 17:56:12,757 INFO 61114 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:56:12,887 INFO 61114 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:56:12,887 INFO 61114 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:56:12,889 INFO 61114 [egg-multipart] stream mode enable
+2018-12-13 17:56:12,947 INFO 61114 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:56:12,949 INFO 61114 [egg-security] use csrf middleware
+2018-12-13 17:56:12,950 INFO 61114 [egg-security] use methodnoallow middleware
+2018-12-13 17:56:12,952 INFO 61114 [egg-security] use noopen middleware
+2018-12-13 17:56:12,954 INFO 61114 [egg-security] use nosniff middleware
+2018-12-13 17:56:12,954 INFO 61114 [egg-security] use xssProtection middleware
+2018-12-13 17:56:12,955 INFO 61114 [egg-security] use xframe middleware
+2018-12-13 17:56:12,955 INFO 61114 [egg-security] use dta middleware
+2018-12-13 17:56:12,955 INFO 61114 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:56:12,965 INFO 61114 [egg:core] dump config after load, 5ms
+2018-12-13 17:56:12,978 INFO 61114 [egg-watcher:application] watcher start success
+2018-12-13 17:56:12,984 INFO 61114 [egg:core] dump config after ready, 4ms
+2018-12-13 17:56:20,689 INFO 61124 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 17:56:20,764 INFO 61124 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 17:56:20,764 INFO 61124 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 17:56:20,765 INFO 61124 [egg-multipart] stream mode enable
+2018-12-13 17:56:20,836 INFO 61124 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 17:56:20,839 INFO 61124 [egg-security] use csrf middleware
+2018-12-13 17:56:20,840 INFO 61124 [egg-security] use methodnoallow middleware
+2018-12-13 17:56:20,840 INFO 61124 [egg-security] use noopen middleware
+2018-12-13 17:56:20,841 INFO 61124 [egg-security] use nosniff middleware
+2018-12-13 17:56:20,841 INFO 61124 [egg-security] use xssProtection middleware
+2018-12-13 17:56:20,841 INFO 61124 [egg-security] use xframe middleware
+2018-12-13 17:56:20,842 INFO 61124 [egg-security] use dta middleware
+2018-12-13 17:56:20,842 INFO 61124 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 17:56:20,852 INFO 61124 [egg:core] dump config after load, 6ms
+2018-12-13 17:56:20,863 INFO 61124 [egg-watcher:application] watcher start success
+2018-12-13 17:56:20,875 INFO 61124 [egg:core] dump config after ready, 10ms
+2018-12-13 18:00:40,598 INFO 62742 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 18:00:40,633 INFO 62742 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 18:00:40,633 INFO 62742 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 18:00:40,633 INFO 62742 [egg-multipart] stream mode enable
+2018-12-13 18:00:40,705 INFO 62742 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 18:00:40,708 INFO 62742 [egg-security] use csrf middleware
+2018-12-13 18:00:40,709 INFO 62742 [egg-security] use methodnoallow middleware
+2018-12-13 18:00:40,710 INFO 62742 [egg-security] use noopen middleware
+2018-12-13 18:00:40,711 INFO 62742 [egg-security] use nosniff middleware
+2018-12-13 18:00:40,711 INFO 62742 [egg-security] use xssProtection middleware
+2018-12-13 18:00:40,712 INFO 62742 [egg-security] use xframe middleware
+2018-12-13 18:00:40,712 INFO 62742 [egg-security] use dta middleware
+2018-12-13 18:00:40,712 INFO 62742 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 18:00:40,724 INFO 62742 [egg:core] dump config after load, 6ms
+2018-12-13 18:00:40,743 INFO 62742 [egg-watcher:application] watcher start success
+2018-12-13 18:00:40,749 INFO 62742 [egg:core] dump config after ready, 4ms
+2018-12-13 18:00:45,453 INFO 62758 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 18:00:45,493 INFO 62758 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 18:00:45,493 INFO 62758 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 18:00:45,494 INFO 62758 [egg-multipart] stream mode enable
+2018-12-13 18:00:45,551 INFO 62758 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 18:00:45,555 INFO 62758 [egg-security] use csrf middleware
+2018-12-13 18:00:45,556 INFO 62758 [egg-security] use methodnoallow middleware
+2018-12-13 18:00:45,556 INFO 62758 [egg-security] use noopen middleware
+2018-12-13 18:00:45,557 INFO 62758 [egg-security] use nosniff middleware
+2018-12-13 18:00:45,558 INFO 62758 [egg-security] use xssProtection middleware
+2018-12-13 18:00:45,558 INFO 62758 [egg-security] use xframe middleware
+2018-12-13 18:00:45,559 INFO 62758 [egg-security] use dta middleware
+2018-12-13 18:00:45,559 INFO 62758 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 18:00:45,574 INFO 62758 [egg:core] dump config after load, 8ms
+2018-12-13 18:00:45,591 INFO 62758 [egg-watcher:application] watcher start success
+2018-12-13 18:00:45,603 INFO 62758 [egg:core] dump config after ready, 9ms
+2018-12-13 18:00:55,976 INFO 62779 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 18:00:56,011 INFO 62779 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 18:00:56,012 INFO 62779 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 18:00:56,012 INFO 62779 [egg-multipart] stream mode enable
+2018-12-13 18:00:56,060 INFO 62779 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 18:00:56,063 INFO 62779 [egg-security] use csrf middleware
+2018-12-13 18:00:56,063 INFO 62779 [egg-security] use methodnoallow middleware
+2018-12-13 18:00:56,064 INFO 62779 [egg-security] use noopen middleware
+2018-12-13 18:00:56,064 INFO 62779 [egg-security] use nosniff middleware
+2018-12-13 18:00:56,065 INFO 62779 [egg-security] use xssProtection middleware
+2018-12-13 18:00:56,065 INFO 62779 [egg-security] use xframe middleware
+2018-12-13 18:00:56,065 INFO 62779 [egg-security] use dta middleware
+2018-12-13 18:00:56,065 INFO 62779 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 18:00:56,076 INFO 62779 [egg:core] dump config after load, 6ms
+2018-12-13 18:00:56,089 INFO 62779 [egg-watcher:application] watcher start success
+2018-12-13 18:00:56,095 INFO 62779 [egg:core] dump config after ready, 4ms
+2018-12-13 18:01:24,322 INFO 63141 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 18:01:24,358 INFO 63141 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 18:01:24,358 INFO 63141 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 18:01:24,358 INFO 63141 [egg-multipart] stream mode enable
+2018-12-13 18:01:24,419 INFO 63141 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 18:01:24,424 INFO 63141 [egg-security] use csrf middleware
+2018-12-13 18:01:24,425 INFO 63141 [egg-security] use methodnoallow middleware
+2018-12-13 18:01:24,426 INFO 63141 [egg-security] use noopen middleware
+2018-12-13 18:01:24,427 INFO 63141 [egg-security] use nosniff middleware
+2018-12-13 18:01:24,428 INFO 63141 [egg-security] use xssProtection middleware
+2018-12-13 18:01:24,429 INFO 63141 [egg-security] use xframe middleware
+2018-12-13 18:01:24,429 INFO 63141 [egg-security] use dta middleware
+2018-12-13 18:01:24,429 INFO 63141 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 18:01:24,474 INFO 63141 [egg:core] dump config after load, 37ms
+2018-12-13 18:01:24,527 INFO 63141 [egg-watcher:application] watcher start success
+2018-12-13 18:01:24,541 INFO 63141 [egg:core] dump config after ready, 12ms
+2018-12-13 18:01:25,825 INFO 63141 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 19:27:26,413 INFO 95693 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 19:27:26,507 INFO 95693 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 19:27:26,507 INFO 95693 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 19:27:26,508 INFO 95693 [egg-multipart] stream mode enable
+2018-12-13 19:27:26,641 INFO 95693 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 19:27:26,648 INFO 95693 [egg-security] use csrf middleware
+2018-12-13 19:27:26,649 INFO 95693 [egg-security] use methodnoallow middleware
+2018-12-13 19:27:26,650 INFO 95693 [egg-security] use noopen middleware
+2018-12-13 19:27:26,653 INFO 95693 [egg-security] use nosniff middleware
+2018-12-13 19:27:26,656 INFO 95693 [egg-security] use xssProtection middleware
+2018-12-13 19:27:26,657 INFO 95693 [egg-security] use xframe middleware
+2018-12-13 19:27:26,659 INFO 95693 [egg-security] use dta middleware
+2018-12-13 19:27:26,659 INFO 95693 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 19:27:26,682 INFO 95693 [egg:core] dump config after load, 11ms
+2018-12-13 19:27:26,713 INFO 95693 [egg-watcher:application] watcher start success
+2018-12-13 19:27:26,727 INFO 95693 [egg:core] dump config after ready, 7ms
+2018-12-13 19:27:35,773 INFO 95693 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 19:41:29,119 INFO 1914 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 19:41:29,183 INFO 1914 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 19:41:29,183 INFO 1914 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 19:41:29,185 INFO 1914 [egg-multipart] stream mode enable
+2018-12-13 19:41:29,316 INFO 1914 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 19:41:29,322 INFO 1914 [egg-security] use csrf middleware
+2018-12-13 19:41:29,324 INFO 1914 [egg-security] use methodnoallow middleware
+2018-12-13 19:41:29,325 INFO 1914 [egg-security] use noopen middleware
+2018-12-13 19:41:29,326 INFO 1914 [egg-security] use nosniff middleware
+2018-12-13 19:41:29,327 INFO 1914 [egg-security] use xssProtection middleware
+2018-12-13 19:41:29,328 INFO 1914 [egg-security] use xframe middleware
+2018-12-13 19:41:29,330 INFO 1914 [egg-security] use dta middleware
+2018-12-13 19:41:29,330 INFO 1914 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 19:41:29,348 INFO 1914 [egg:core] dump config after load, 10ms
+2018-12-13 19:41:29,370 INFO 1914 [egg-watcher:application] watcher start success
+2018-12-13 19:41:29,380 INFO 1914 [egg:core] dump config after ready, 7ms
+2018-12-13 19:41:30,208 INFO 1914 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 19:51:02,360 INFO 5531 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 19:51:02,500 INFO 5531 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 19:51:02,500 INFO 5531 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 19:51:02,502 INFO 5531 [egg-multipart] stream mode enable
+2018-12-13 19:51:02,648 INFO 5531 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 19:51:02,652 INFO 5531 [egg-security] use csrf middleware
+2018-12-13 19:51:02,666 INFO 5531 [egg-security] use methodnoallow middleware
+2018-12-13 19:51:02,669 INFO 5531 [egg-security] use noopen middleware
+2018-12-13 19:51:02,671 INFO 5531 [egg-security] use nosniff middleware
+2018-12-13 19:51:02,676 INFO 5531 [egg-security] use xssProtection middleware
+2018-12-13 19:51:02,679 INFO 5531 [egg-security] use xframe middleware
+2018-12-13 19:51:02,680 INFO 5531 [egg-security] use dta middleware
+2018-12-13 19:51:02,680 INFO 5531 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 19:51:02,702 INFO 5531 [egg:core] dump config after load, 14ms
+2018-12-13 19:51:02,727 INFO 5531 [egg-watcher:application] watcher start success
+2018-12-13 19:51:02,739 INFO 5531 [egg:core] dump config after ready, 8ms
+2018-12-13 19:51:05,594 INFO 5833 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 19:51:05,629 INFO 5833 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 19:51:05,629 INFO 5833 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 19:51:05,630 INFO 5833 [egg-multipart] stream mode enable
+2018-12-13 19:51:05,679 INFO 5833 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 19:51:05,682 INFO 5833 [egg-security] use csrf middleware
+2018-12-13 19:51:05,683 INFO 5833 [egg-security] use methodnoallow middleware
+2018-12-13 19:51:05,683 INFO 5833 [egg-security] use noopen middleware
+2018-12-13 19:51:05,684 INFO 5833 [egg-security] use nosniff middleware
+2018-12-13 19:51:05,684 INFO 5833 [egg-security] use xssProtection middleware
+2018-12-13 19:51:05,684 INFO 5833 [egg-security] use xframe middleware
+2018-12-13 19:51:05,684 INFO 5833 [egg-security] use dta middleware
+2018-12-13 19:51:05,684 INFO 5833 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 19:51:05,696 INFO 5833 [egg:core] dump config after load, 6ms
+2018-12-13 19:51:05,709 INFO 5833 [egg-watcher:application] watcher start success
+2018-12-13 19:51:05,723 INFO 5833 [egg:core] dump config after ready, 12ms
+2018-12-13 19:51:06,130 INFO 5833 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 19:51:26,475 INFO 5880 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 19:51:26,514 INFO 5880 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 19:51:26,514 INFO 5880 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 19:51:26,514 INFO 5880 [egg-multipart] stream mode enable
+2018-12-13 19:51:26,556 INFO 5880 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 19:51:26,559 INFO 5880 [egg-security] use csrf middleware
+2018-12-13 19:51:26,560 INFO 5880 [egg-security] use methodnoallow middleware
+2018-12-13 19:51:26,561 INFO 5880 [egg-security] use noopen middleware
+2018-12-13 19:51:26,561 INFO 5880 [egg-security] use nosniff middleware
+2018-12-13 19:51:26,562 INFO 5880 [egg-security] use xssProtection middleware
+2018-12-13 19:51:26,562 INFO 5880 [egg-security] use xframe middleware
+2018-12-13 19:51:26,563 INFO 5880 [egg-security] use dta middleware
+2018-12-13 19:51:26,563 INFO 5880 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 19:51:26,572 INFO 5880 [egg:core] dump config after load, 5ms
+2018-12-13 19:51:26,585 INFO 5880 [egg-watcher:application] watcher start success
+2018-12-13 19:51:26,591 INFO 5880 [egg:core] dump config after ready, 4ms
+2018-12-13 19:51:27,469 INFO 5882 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 19:51:27,543 INFO 5882 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 19:51:27,543 INFO 5882 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 19:51:27,544 INFO 5882 [egg-multipart] stream mode enable
+2018-12-13 19:51:27,651 INFO 5882 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 19:51:27,654 INFO 5882 [egg-security] use csrf middleware
+2018-12-13 19:51:27,656 INFO 5882 [egg-security] use methodnoallow middleware
+2018-12-13 19:51:27,657 INFO 5882 [egg-security] use noopen middleware
+2018-12-13 19:51:27,658 INFO 5882 [egg-security] use nosniff middleware
+2018-12-13 19:51:27,659 INFO 5882 [egg-security] use xssProtection middleware
+2018-12-13 19:51:27,660 INFO 5882 [egg-security] use xframe middleware
+2018-12-13 19:51:27,660 INFO 5882 [egg-security] use dta middleware
+2018-12-13 19:51:27,660 INFO 5882 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 19:51:27,711 INFO 5882 [egg:core] dump config after load, 39ms
+2018-12-13 19:51:27,723 INFO 5882 [egg-watcher:application] watcher start success
+2018-12-13 19:51:27,730 INFO 5882 [egg:core] dump config after ready, 5ms
+2018-12-13 19:51:39,083 INFO 5882 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 19:52:06,931 INFO 6270 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 19:52:06,987 INFO 6270 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 19:52:06,987 INFO 6270 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 19:52:06,988 INFO 6270 [egg-multipart] stream mode enable
+2018-12-13 19:52:07,130 INFO 6270 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 19:52:07,135 INFO 6270 [egg-security] use csrf middleware
+2018-12-13 19:52:07,139 INFO 6270 [egg-security] use methodnoallow middleware
+2018-12-13 19:52:07,140 INFO 6270 [egg-security] use noopen middleware
+2018-12-13 19:52:07,141 INFO 6270 [egg-security] use nosniff middleware
+2018-12-13 19:52:07,142 INFO 6270 [egg-security] use xssProtection middleware
+2018-12-13 19:52:07,143 INFO 6270 [egg-security] use xframe middleware
+2018-12-13 19:52:07,144 INFO 6270 [egg-security] use dta middleware
+2018-12-13 19:52:07,144 INFO 6270 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 19:52:07,169 INFO 6270 [egg:core] dump config after load, 7ms
+2018-12-13 19:52:07,192 INFO 6270 [egg-watcher:application] watcher start success
+2018-12-13 19:52:07,213 INFO 6270 [egg:core] dump config after ready, 18ms
+2018-12-13 19:52:07,991 INFO 6280 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 19:52:08,030 INFO 6280 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 19:52:08,030 INFO 6280 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 19:52:08,031 INFO 6280 [egg-multipart] stream mode enable
+2018-12-13 19:52:08,079 INFO 6280 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 19:52:08,081 INFO 6280 [egg-security] use csrf middleware
+2018-12-13 19:52:08,082 INFO 6280 [egg-security] use methodnoallow middleware
+2018-12-13 19:52:08,082 INFO 6280 [egg-security] use noopen middleware
+2018-12-13 19:52:08,083 INFO 6280 [egg-security] use nosniff middleware
+2018-12-13 19:52:08,083 INFO 6280 [egg-security] use xssProtection middleware
+2018-12-13 19:52:08,083 INFO 6280 [egg-security] use xframe middleware
+2018-12-13 19:52:08,083 INFO 6280 [egg-security] use dta middleware
+2018-12-13 19:52:08,083 INFO 6280 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 19:52:08,094 INFO 6280 [egg:core] dump config after load, 7ms
+2018-12-13 19:52:08,107 INFO 6280 [egg-watcher:application] watcher start success
+2018-12-13 19:52:08,113 INFO 6280 [egg:core] dump config after ready, 3ms
+2018-12-13 19:52:20,891 INFO 6280 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 19:52:35,602 INFO 6325 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 19:52:35,646 INFO 6325 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 19:52:35,646 INFO 6325 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 19:52:35,647 INFO 6325 [egg-multipart] stream mode enable
+2018-12-13 19:52:35,720 INFO 6325 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 19:52:35,724 INFO 6325 [egg-security] use csrf middleware
+2018-12-13 19:52:35,725 INFO 6325 [egg-security] use methodnoallow middleware
+2018-12-13 19:52:35,725 INFO 6325 [egg-security] use noopen middleware
+2018-12-13 19:52:35,726 INFO 6325 [egg-security] use nosniff middleware
+2018-12-13 19:52:35,726 INFO 6325 [egg-security] use xssProtection middleware
+2018-12-13 19:52:35,726 INFO 6325 [egg-security] use xframe middleware
+2018-12-13 19:52:35,727 INFO 6325 [egg-security] use dta middleware
+2018-12-13 19:52:35,727 INFO 6325 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 19:52:35,740 INFO 6325 [egg:core] dump config after load, 7ms
+2018-12-13 19:52:35,760 INFO 6325 [egg-watcher:application] watcher start success
+2018-12-13 19:52:35,773 INFO 6325 [egg:core] dump config after ready, 4ms
+2018-12-13 19:52:36,310 INFO 6325 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 19:53:39,676 INFO 6735 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 19:53:39,716 INFO 6735 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 19:53:39,716 INFO 6735 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 19:53:39,716 INFO 6735 [egg-multipart] stream mode enable
+2018-12-13 19:53:39,759 INFO 6735 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 19:53:39,761 INFO 6735 [egg-security] use csrf middleware
+2018-12-13 19:53:39,761 INFO 6735 [egg-security] use methodnoallow middleware
+2018-12-13 19:53:39,762 INFO 6735 [egg-security] use noopen middleware
+2018-12-13 19:53:39,762 INFO 6735 [egg-security] use nosniff middleware
+2018-12-13 19:53:39,763 INFO 6735 [egg-security] use xssProtection middleware
+2018-12-13 19:53:39,763 INFO 6735 [egg-security] use xframe middleware
+2018-12-13 19:53:39,763 INFO 6735 [egg-security] use dta middleware
+2018-12-13 19:53:39,763 INFO 6735 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 19:53:39,772 INFO 6735 [egg:core] dump config after load, 5ms
+2018-12-13 19:53:39,783 INFO 6735 [egg-watcher:application] watcher start success
+2018-12-13 19:53:39,789 INFO 6735 [egg:core] dump config after ready, 4ms
+2018-12-13 19:53:40,756 INFO 6738 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 19:53:40,788 INFO 6738 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 19:53:40,788 INFO 6738 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 19:53:40,788 INFO 6738 [egg-multipart] stream mode enable
+2018-12-13 19:53:40,829 INFO 6738 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 19:53:40,831 INFO 6738 [egg-security] use csrf middleware
+2018-12-13 19:53:40,832 INFO 6738 [egg-security] use methodnoallow middleware
+2018-12-13 19:53:40,832 INFO 6738 [egg-security] use noopen middleware
+2018-12-13 19:53:40,833 INFO 6738 [egg-security] use nosniff middleware
+2018-12-13 19:53:40,833 INFO 6738 [egg-security] use xssProtection middleware
+2018-12-13 19:53:40,834 INFO 6738 [egg-security] use xframe middleware
+2018-12-13 19:53:40,834 INFO 6738 [egg-security] use dta middleware
+2018-12-13 19:53:40,834 INFO 6738 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 19:53:40,843 INFO 6738 [egg:core] dump config after load, 4ms
+2018-12-13 19:53:40,859 INFO 6738 [egg-watcher:application] watcher start success
+2018-12-13 19:53:40,865 INFO 6738 [egg:core] dump config after ready, 4ms
+2018-12-13 19:53:41,098 INFO 6738 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 20:04:26,947 INFO 10966 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 20:04:26,991 INFO 10966 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 20:04:26,991 INFO 10966 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 20:04:26,992 INFO 10966 [egg-multipart] stream mode enable
+2018-12-13 20:04:27,033 INFO 10966 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 20:04:27,036 INFO 10966 [egg-security] use csrf middleware
+2018-12-13 20:04:27,036 INFO 10966 [egg-security] use methodnoallow middleware
+2018-12-13 20:04:27,037 INFO 10966 [egg-security] use noopen middleware
+2018-12-13 20:04:27,037 INFO 10966 [egg-security] use nosniff middleware
+2018-12-13 20:04:27,038 INFO 10966 [egg-security] use xssProtection middleware
+2018-12-13 20:04:27,038 INFO 10966 [egg-security] use xframe middleware
+2018-12-13 20:04:27,038 INFO 10966 [egg-security] use dta middleware
+2018-12-13 20:04:27,038 INFO 10966 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 20:04:27,053 INFO 10966 [egg:core] dump config after load, 9ms
+2018-12-13 20:04:27,067 INFO 10966 [egg-watcher:application] watcher start success
+2018-12-13 20:04:27,074 INFO 10966 [egg:core] dump config after ready, 4ms
+2018-12-13 20:04:35,935 INFO 10987 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 20:04:35,981 INFO 10987 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 20:04:35,982 INFO 10987 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 20:04:35,982 INFO 10987 [egg-multipart] stream mode enable
+2018-12-13 20:04:36,058 INFO 10987 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 20:04:36,060 INFO 10987 [egg-security] use csrf middleware
+2018-12-13 20:04:36,061 INFO 10987 [egg-security] use methodnoallow middleware
+2018-12-13 20:04:36,062 INFO 10987 [egg-security] use noopen middleware
+2018-12-13 20:04:36,062 INFO 10987 [egg-security] use nosniff middleware
+2018-12-13 20:04:36,063 INFO 10987 [egg-security] use xssProtection middleware
+2018-12-13 20:04:36,063 INFO 10987 [egg-security] use xframe middleware
+2018-12-13 20:04:36,064 INFO 10987 [egg-security] use dta middleware
+2018-12-13 20:04:36,064 INFO 10987 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 20:04:36,075 INFO 10987 [egg:core] dump config after load, 5ms
+2018-12-13 20:04:36,086 INFO 10987 [egg-watcher:application] watcher start success
+2018-12-13 20:04:36,092 INFO 10987 [egg:core] dump config after ready, 5ms
+2018-12-13 20:07:18,144 INFO 12099 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 20:07:18,179 INFO 12099 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 20:07:18,179 INFO 12099 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 20:07:18,180 INFO 12099 [egg-multipart] stream mode enable
+2018-12-13 20:07:18,254 INFO 12099 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 20:07:18,259 INFO 12099 [egg-security] use csrf middleware
+2018-12-13 20:07:18,261 INFO 12099 [egg-security] use methodnoallow middleware
+2018-12-13 20:07:18,262 INFO 12099 [egg-security] use noopen middleware
+2018-12-13 20:07:18,263 INFO 12099 [egg-security] use nosniff middleware
+2018-12-13 20:07:18,264 INFO 12099 [egg-security] use xssProtection middleware
+2018-12-13 20:07:18,264 INFO 12099 [egg-security] use xframe middleware
+2018-12-13 20:07:18,265 INFO 12099 [egg-security] use dta middleware
+2018-12-13 20:07:18,265 INFO 12099 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 20:07:18,286 INFO 12099 [egg:core] dump config after load, 13ms
+2018-12-13 20:07:18,301 INFO 12099 [egg-watcher:application] watcher start success
+2018-12-13 20:07:18,317 INFO 12099 [egg:core] dump config after ready, 13ms
+2018-12-13 20:07:23,593 INFO 12113 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 20:07:23,626 INFO 12113 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 20:07:23,626 INFO 12113 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 20:07:23,626 INFO 12113 [egg-multipart] stream mode enable
+2018-12-13 20:07:23,675 INFO 12113 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 20:07:23,677 INFO 12113 [egg-security] use csrf middleware
+2018-12-13 20:07:23,678 INFO 12113 [egg-security] use methodnoallow middleware
+2018-12-13 20:07:23,678 INFO 12113 [egg-security] use noopen middleware
+2018-12-13 20:07:23,679 INFO 12113 [egg-security] use nosniff middleware
+2018-12-13 20:07:23,679 INFO 12113 [egg-security] use xssProtection middleware
+2018-12-13 20:07:23,679 INFO 12113 [egg-security] use xframe middleware
+2018-12-13 20:07:23,680 INFO 12113 [egg-security] use dta middleware
+2018-12-13 20:07:23,680 INFO 12113 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 20:07:23,689 INFO 12113 [egg:core] dump config after load, 5ms
+2018-12-13 20:07:23,700 INFO 12113 [egg-watcher:application] watcher start success
+2018-12-13 20:07:23,706 INFO 12113 [egg:core] dump config after ready, 4ms
+2018-12-13 20:07:31,181 INFO 12129 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 20:07:31,237 INFO 12129 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 20:07:31,237 INFO 12129 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 20:07:31,238 INFO 12129 [egg-multipart] stream mode enable
+2018-12-13 20:07:31,335 INFO 12129 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 20:07:31,342 INFO 12129 [egg-security] use csrf middleware
+2018-12-13 20:07:31,344 INFO 12129 [egg-security] use methodnoallow middleware
+2018-12-13 20:07:31,345 INFO 12129 [egg-security] use noopen middleware
+2018-12-13 20:07:31,345 INFO 12129 [egg-security] use nosniff middleware
+2018-12-13 20:07:31,346 INFO 12129 [egg-security] use xssProtection middleware
+2018-12-13 20:07:31,346 INFO 12129 [egg-security] use xframe middleware
+2018-12-13 20:07:31,347 INFO 12129 [egg-security] use dta middleware
+2018-12-13 20:07:31,347 INFO 12129 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 20:07:31,366 INFO 12129 [egg:core] dump config after load, 7ms
+2018-12-13 20:07:31,382 INFO 12129 [egg-watcher:application] watcher start success
+2018-12-13 20:07:31,398 INFO 12129 [egg:core] dump config after ready, 14ms
+2018-12-13 20:09:12,131 INFO 12857 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 20:09:12,172 INFO 12857 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 20:09:12,172 INFO 12857 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 20:09:12,173 INFO 12857 [egg-multipart] stream mode enable
+2018-12-13 20:09:12,248 INFO 12857 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 20:09:12,251 INFO 12857 [egg-security] use csrf middleware
+2018-12-13 20:09:12,253 INFO 12857 [egg-security] use methodnoallow middleware
+2018-12-13 20:09:12,253 INFO 12857 [egg-security] use noopen middleware
+2018-12-13 20:09:12,254 INFO 12857 [egg-security] use nosniff middleware
+2018-12-13 20:09:12,255 INFO 12857 [egg-security] use xssProtection middleware
+2018-12-13 20:09:12,256 INFO 12857 [egg-security] use xframe middleware
+2018-12-13 20:09:12,257 INFO 12857 [egg-security] use dta middleware
+2018-12-13 20:09:12,257 INFO 12857 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 20:09:12,269 INFO 12857 [egg:core] dump config after load, 6ms
+2018-12-13 20:09:12,286 INFO 12857 [egg-watcher:application] watcher start success
+2018-12-13 20:09:12,322 INFO 12857 [egg:core] dump config after ready, 32ms
+2018-12-13 20:10:23,247 INFO 13270 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 20:10:23,280 INFO 13270 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 20:10:23,280 INFO 13270 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 20:10:23,281 INFO 13270 [egg-multipart] stream mode enable
+2018-12-13 20:10:23,322 INFO 13270 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 20:10:23,325 INFO 13270 [egg-security] use csrf middleware
+2018-12-13 20:10:23,325 INFO 13270 [egg-security] use methodnoallow middleware
+2018-12-13 20:10:23,326 INFO 13270 [egg-security] use noopen middleware
+2018-12-13 20:10:23,326 INFO 13270 [egg-security] use nosniff middleware
+2018-12-13 20:10:23,326 INFO 13270 [egg-security] use xssProtection middleware
+2018-12-13 20:10:23,327 INFO 13270 [egg-security] use xframe middleware
+2018-12-13 20:10:23,327 INFO 13270 [egg-security] use dta middleware
+2018-12-13 20:10:23,327 INFO 13270 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 20:10:23,336 INFO 13270 [egg:core] dump config after load, 5ms
+2018-12-13 20:10:23,347 INFO 13270 [egg-watcher:application] watcher start success
+2018-12-13 20:10:23,355 INFO 13270 [egg:core] dump config after ready, 5ms
+2018-12-13 20:10:55,879 INFO 13270 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 20:11:52,565 INFO 13760 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 20:11:52,615 INFO 13760 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 20:11:52,615 INFO 13760 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 20:11:52,615 INFO 13760 [egg-multipart] stream mode enable
+2018-12-13 20:11:52,923 INFO 13760 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 20:11:52,927 INFO 13760 [egg-security] use csrf middleware
+2018-12-13 20:11:52,928 INFO 13760 [egg-security] use methodnoallow middleware
+2018-12-13 20:11:52,929 INFO 13760 [egg-security] use noopen middleware
+2018-12-13 20:11:52,931 INFO 13760 [egg-security] use nosniff middleware
+2018-12-13 20:11:52,932 INFO 13760 [egg-security] use xssProtection middleware
+2018-12-13 20:11:52,934 INFO 13760 [egg-security] use xframe middleware
+2018-12-13 20:11:52,939 INFO 13760 [egg-security] use dta middleware
+2018-12-13 20:11:52,939 INFO 13760 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 20:11:52,956 INFO 13760 [egg:core] dump config after load, 10ms
+2018-12-13 20:11:52,981 INFO 13760 [egg-watcher:application] watcher start success
+2018-12-13 20:11:52,999 INFO 13760 [egg:core] dump config after ready, 15ms
+2018-12-13 20:11:55,046 INFO 13760 [egg-view-nunjucks] loading templates from ["/Users/wenlie/workspace/cdn/app/view"]
+2018-12-13 20:12:22,859 INFO 14124 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 20:12:22,900 INFO 14124 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 20:12:22,900 INFO 14124 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 20:12:22,900 INFO 14124 [egg-multipart] stream mode enable
+2018-12-13 20:12:22,951 INFO 14124 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 20:12:22,954 INFO 14124 [egg-security] use csrf middleware
+2018-12-13 20:12:22,954 INFO 14124 [egg-security] use methodnoallow middleware
+2018-12-13 20:12:22,955 INFO 14124 [egg-security] use noopen middleware
+2018-12-13 20:12:22,955 INFO 14124 [egg-security] use nosniff middleware
+2018-12-13 20:12:22,956 INFO 14124 [egg-security] use xssProtection middleware
+2018-12-13 20:12:22,956 INFO 14124 [egg-security] use xframe middleware
+2018-12-13 20:12:22,956 INFO 14124 [egg-security] use dta middleware
+2018-12-13 20:12:22,956 INFO 14124 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 20:12:22,968 INFO 14124 [egg:core] dump config after load, 6ms
+2018-12-13 20:12:22,983 INFO 14124 [egg-watcher:application] watcher start success
+2018-12-13 20:12:22,995 INFO 14124 [egg:core] dump config after ready, 10ms
+2018-12-13 20:16:09,311 INFO 17470 [egg:logger] init all loggers with options: {"dir":"/Users/wenlie/workspace/cdn/logs/cdn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cdn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-13 20:16:09,398 INFO 17470 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js
+2018-12-13 20:16:09,398 INFO 17470 [egg-schedule]: register schedule /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-13 20:16:09,399 INFO 17470 [egg-multipart] stream mode enable
+2018-12-13 20:16:09,499 INFO 17470 [egg-static] starting static serve /assets/ -> /Users/wenlie/workspace/cdn/app/public
+2018-12-13 20:16:09,502 INFO 17470 [egg-security] use csrf middleware
+2018-12-13 20:16:09,504 INFO 17470 [egg-security] use methodnoallow middleware
+2018-12-13 20:16:09,506 INFO 17470 [egg-security] use noopen middleware
+2018-12-13 20:16:09,507 INFO 17470 [egg-security] use nosniff middleware
+2018-12-13 20:16:09,508 INFO 17470 [egg-security] use xssProtection middleware
+2018-12-13 20:16:09,509 INFO 17470 [egg-security] use xframe middleware
+2018-12-13 20:16:09,510 INFO 17470 [egg-security] use dta middleware
+2018-12-13 20:16:09,510 INFO 17470 [egg-security] compose 7 middlewares into one security middleware
+2018-12-13 20:16:09,523 INFO 17470 [egg:core] dump config after load, 9ms
+2018-12-13 20:16:09,541 INFO 17470 [egg-watcher:application] watcher start success
+2018-12-13 20:16:09,547 INFO 17470 [egg:core] dump config after ready, 4ms
+2018-12-13 21:57:21,773 WARN 17470 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-12-14 00:21:04,599 WARN 17470 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-12-14 00:50:48,011 INFO 17470 [egg-logrotator] clean all log before 31 days
+2018-12-14 00:50:48,015 INFO 17470 [-/127.0.0.1/-/22ms SCHEDULE /__schedule?path=/Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js&type=worker&cron=0%200%20*%20*%20*] [egg-schedule] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/clean_log.js execute succeed, used 22ms
+2018-12-14 00:50:48,892 INFO 17470 [egg-logrotator] broadcast log-reload
+2018-12-14 00:50:48,895 INFO 17470 [egg-logrotator] rotate files success by DayRotator, files ["/Users/wenlie/workspace/cdn/logs/cdn/common-error.log -> /Users/wenlie/workspace/cdn/logs/cdn/common-error.log.2018-12-13","/Users/wenlie/workspace/cdn/logs/cdn/cdn-web.log -> /Users/wenlie/workspace/cdn/logs/cdn/cdn-web.log.2018-12-13","/Users/wenlie/workspace/cdn/logs/cdn/egg-web.log -> /Users/wenlie/workspace/cdn/logs/cdn/egg-web.log.2018-12-13","/Users/wenlie/workspace/cdn/logs/cdn/egg-schedule.log -> /Users/wenlie/workspace/cdn/logs/cdn/egg-schedule.log.2018-12-13","/Users/wenlie/workspace/cdn/logs/cdn/egg-agent.log -> /Users/wenlie/workspace/cdn/logs/cdn/egg-agent.log.2018-12-13"]
+2018-12-14 00:50:48,896 INFO 17470 [-/127.0.0.1/-/13ms SCHEDULE /__schedule?path=/Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js&type=worker&cron=1%200%200%20*%20*%20*] [egg-schedule] /Users/wenlie/workspace/cdn/node_modules/_egg-logrotator@3.0.5@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 13ms
