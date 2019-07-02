@@ -6,7 +6,7 @@
 
 ##  操作步骤
 
-1. 下载`qshell_darwin_x64`到`/qshell-v2.3.4`目录下,建议使用`v2.3.4`,此版本亲测可用。
+1. 下载`qshell_darwin_x64`到`/qshell-v2.3.4`目录下,建议使用`v2.3.4`,此版本亲测可用。[下载地址](http://img.4455q.com/qshell_darwin_x64)
 2. 根据七牛官方文档配置`ACCESS_KEY`和`SECRET_KEY`
 3. 运行`npm run qiniu`
 
